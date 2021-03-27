@@ -4,11 +4,11 @@ description: Volkan Yılmaz - volkanyilmaz.com.tr - wolkanca.com.tr - SEO - Word
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Firefox’ta fare tekerleği sorunu](https://wolkanca.com.tr/firefoxta-fare-tekerlegi-sorunu/)
 - [CSS ile üçgen yapmak](https://wolkanca.com.tr/css-ile-ucgen-yapmak/)
 - [HUAWEI AppGallery’ye ilk uygulamamı ekledim](https://wolkanca.com.tr/huawei-appgalleryye-ilk-uygulamami-ekledim/)
 - [Pratik ve becerikli olmak](https://wolkanca.com.tr/pratik-ve-becerikli-olmak/)
 - [Akışkan tipografi](https://wolkanca.com.tr/akiskan-tipografi/)
-- [Harvard’dan ücretsiz kurslar](https://wolkanca.com.tr/harvarddan-ucretsiz-kurslar/)
 <!-- BLOG-POST-LIST:END -->
 
 
