@@ -1,5 +1,5 @@
 ---
-description: Volkan Yılmaz - volkanyilmaz.com.tr - wolkanca.com.tr - SEO - WordPress
+description: Volkan Yılmaz - volkanyilmaz.com.tr - wolkanca.com.tr - SEO - WordPress - wolkanca.netlify.app
 ---
 
 ## Blog posts
