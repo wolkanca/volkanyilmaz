@@ -11,11 +11,11 @@ Cloudflare Pages. Test. Volkan. https://volkan.pages.dev/
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [cURL ile son konumu almak](https://wolkanca.com.tr/curl-ile-son-konumu-almak/)
 - [Windows PowerShell geçmişini temizlemek](https://wolkanca.com.tr/windows-powershell-gecmisini-temizlemek/)
 - [Windows Görev zamanlayıcıda PowerShell](https://wolkanca.com.tr/windows-gorev-zamanlayicida-powershell/)
 - [Ekrem İmamoğlu da Twitch’de](https://wolkanca.com.tr/ekrem-imamoglu-da-twitchde/)
 - [1 pencere yüksekliği kaydırıldığında – JS](https://wolkanca.com.tr/1-pencere-yuksekligi-kaydirildiginda-js/)
-- [100 adet CSS loading](https://wolkanca.com.tr/100-adet-css-loading/)
 <!-- BLOG-POST-LIST:END -->
 
 
