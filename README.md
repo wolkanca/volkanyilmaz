@@ -11,11 +11,11 @@ Cloudflare Pages. Test. Volkan. https://volkan.pages.dev/
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Google Developers Learn CSS](https://wolkanca.com.tr/google-developers-learn-css/)
 - [Sedat Peker – Sedatflix](https://wolkanca.com.tr/sedat-peker-sedatflix/)
 - [İyi ki doğdun Pac-Man](https://wolkanca.com.tr/iyi-ki-dogdun-pac-man/)
 - [GoDaddy paylaşımlı hostinglerde PHP 8 kullanılabilir](https://wolkanca.com.tr/godaddy-paylasimli-hostinglerde-php-8-kullanilabilir/)
 - [cURL ile son konumu almak](https://wolkanca.com.tr/curl-ile-son-konumu-almak/)
-- [Windows PowerShell geçmişini temizlemek](https://wolkanca.com.tr/windows-powershell-gecmisini-temizlemek/)
 <!-- BLOG-POST-LIST:END -->
 
 
