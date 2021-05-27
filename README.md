@@ -11,11 +11,11 @@ Cloudflare Pages. Test. Volkan. https://volkan.pages.dev/
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Happy birthday WordPress](https://wolkanca.com.tr/happy-birthday-wordpress/)
 - [Sözlük: Dijital Terimler / Digital Terms](https://wolkanca.com.tr/sozluk-dijital-terimler-digital-terms/)
 - [JavaScript, CSS ve (X) HTML varlıkları numeric order](https://wolkanca.com.tr/javascript-css-ve-x-html-varliklari-numeric-order/)
 - [Sina Ateş Çizimleri](https://wolkanca.com.tr/sina-ates-cizimleri/)
 - [Google Developers Learn CSS](https://wolkanca.com.tr/google-developers-learn-css/)
-- [Sedat Peker – Sedatflix](https://wolkanca.com.tr/sedat-peker-sedatflix/)
 <!-- BLOG-POST-LIST:END -->
 
 
