@@ -11,11 +11,11 @@ Cloudflare Pages. Test. Volkan. https://volkan.pages.dev/
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Ücretsiz programlama kitapları](https://wolkanca.com.tr/ucretsiz-programlama-kitaplari/)
 - [Chrome Experiments Copy Link To Text](https://wolkanca.com.tr/chrome-experiments-copy-link-to-text/)
 - [Github ile ücretsiz barındırma](https://wolkanca.com.tr/github-ile-ucretsiz-barindirma/)
 - [Ali Babacan #KKHA](https://wolkanca.com.tr/ali-babacan-kkha/)
 - [CSS custom properties fallback(yedek)](https://wolkanca.com.tr/css-custom-properties-fallbackyedek/)
-- [.htaccess ile slash(-/-eğik çizgi) kontrolü](https://wolkanca.com.tr/htaccess-ile-slash-egik-cizgi-kontrolu/)
 <!-- BLOG-POST-LIST:END -->
 
 
