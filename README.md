@@ -12,10 +12,10 @@ Cloudflare Pages. Test. Volkan. https://volkan.pages.dev/
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Ücretsiz programlama kitapları](https://wolkanca.com.tr/ucretsiz-programlama-kitaplari/)
+- [Atiye 3. sezon fragman yayınlandı](https://wolkanca.com.tr/atiye-3-sezon-fragman-yayinlandi/)
 - [Chrome Experiments Copy Link To Text](https://wolkanca.com.tr/chrome-experiments-copy-link-to-text/)
 - [Github ile ücretsiz barındırma](https://wolkanca.com.tr/github-ile-ucretsiz-barindirma/)
 - [Ali Babacan #KKHA](https://wolkanca.com.tr/ali-babacan-kkha/)
-- [CSS custom properties fallback(yedek)](https://wolkanca.com.tr/css-custom-properties-fallbackyedek/)
 <!-- BLOG-POST-LIST:END -->
 
 
