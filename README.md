@@ -11,11 +11,11 @@ Cloudflare Pages. Test. Volkan. https://volkan.pages.dev/
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Bir URL’in durum kodunu sorgulamak (PHP)](https://wolkanca.com.tr/bir-urlin-durum-kodunu-sorgulamak-php/)
 - [Güç Netflix’de artık!](https://wolkanca.com.tr/guc-netflixde-artik/)
 - [Jean Jullien modern toplum üzerine çizimler](https://wolkanca.com.tr/jean-jullien-modern-toplum-uzerine-cizimler/)
 - [Front-End Checklist](https://wolkanca.com.tr/front-end-checklist/)
 - [Allah’ın imtiyazlı kulları](https://wolkanca.com.tr/allahin-imtiyazli-kullari/)
-- [iOS 15 tanıtıldı – WWDC21](https://wolkanca.com.tr/ios-15-tanitildi-wwdc21/)
 <!-- BLOG-POST-LIST:END -->
 
 
