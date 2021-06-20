@@ -12,10 +12,10 @@ Cloudflare Pages. Test. Volkan. https://volkan.pages.dev/
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [WordPress bellek ayarları](https://wolkanca.com.tr/wordpress-bellek-ayarlari/)
+- [2021 yazılım geliştirici maaş raporu](https://wolkanca.com.tr/2021-yazilim-gelistirici-maas-raporu/)
 - [Geliştirici olarak işinize yarayabilecek online araçlar](https://wolkanca.com.tr/gelistirici-olarak-isinize-yarayabilecek-online-araclar/)
 - [Khan Academy](https://wolkanca.com.tr/khan-academy/)
 - [Atiye 3. sezon çıktı](https://wolkanca.com.tr/atiye-3-sezon-cikti/)
-- [Windows 11 internete sızdırıldı](https://wolkanca.com.tr/windows-11-internete-sizdirildi/)
 <!-- BLOG-POST-LIST:END -->
 
 
