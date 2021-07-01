@@ -11,11 +11,11 @@ Cloudflare Pages. Test. Volkan. https://volkan.pages.dev/
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [2021 en çok tıklanan siteler](https://wolkanca.com.tr/2021-en-cok-tiklanan-siteler/)
 - [Mobil cihazlar ekran boyutları](https://wolkanca.com.tr/mobil-cihazlar-ekran-boyutlari/)
 - [HTTP Durum Kodları ve SEO](https://wolkanca.com.tr/http-durum-kodlari-ve-seo/)
 - [Son gönderi ise fonksiyonu](https://wolkanca.com.tr/son-gonderi-ise-fonksiyonu/)
 - [Japonca, Çince ve Korece harfleri tespit etmek](https://wolkanca.com.tr/japonca-cince-ve-korece-harfleri-tespit-etmek/)
-- [Fare tuşlarının işlevlerini değiştirmek](https://wolkanca.com.tr/fare-tuslarinin-islevlerini-degistirmek/)
 <!-- BLOG-POST-LIST:END -->
 
 
