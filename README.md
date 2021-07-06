@@ -11,11 +11,11 @@ Cloudflare Pages. Test. Volkan. https://volkan.pages.dev/
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Windows 11 nasıl yüklenir](https://wolkanca.com.tr/windows-11-nasil-yuklenir/)
 - [Chrome DevTools ile ekran görüntüsü almak](https://wolkanca.com.tr/chrome-devtools-ile-ekran-goruntusu-almak/)
 - [Bazı JavaScript hackleri](https://wolkanca.com.tr/bazi-javascript-hackleri/)
 - [Kendi Netflix’inizi yapın: Fakeflix](https://wolkanca.com.tr/kendi-netflixinizi-yapin-fakeflix/)
 - [get_the_post_thumbnail() srcset kontrolü](https://wolkanca.com.tr/get_the_post_thumbnail-srcset-kontrolu/)
-- [2021 en çok tıklanan siteler](https://wolkanca.com.tr/2021-en-cok-tiklanan-siteler/)
 <!-- BLOG-POST-LIST:END -->
 
 
