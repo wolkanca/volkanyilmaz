@@ -11,11 +11,11 @@ Cloudflare Pages. Test. Volkan. https://volkan.pages.dev/
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [MacOS’de disk clonlama](https://wolkanca.com.tr/macosde-disk-clonlama/)
 - [Çerezler nedir?](https://wolkanca.com.tr/cerezler-nedir/)
 - [Apple piyasa değeri](https://wolkanca.com.tr/apple-piyasa-degeri/)
 - [Melih Bulu geldiği gibi gitti](https://wolkanca.com.tr/melih-bulu-geldigi-gibi-gitti/)
 - [Online Windows 11 deneyimlemek](https://wolkanca.com.tr/online-windows-11-deneyimlemek/)
-- [Vanilla JS ile bir Chatbot](https://wolkanca.com.tr/vanilla-js-ile-bir-chatbot/)
 <!-- BLOG-POST-LIST:END -->
 
 
