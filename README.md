@@ -11,11 +11,11 @@ Cloudflare Pages. Test. Volkan. https://volkan.pages.dev/
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [MacOS’de disk clonlama](https://wolkanca.com.tr/macosde-disk-clonlama/)
+- [Google Temmuz 2021 Çekirdek Algoritma güncellemesi üzerine](https://wolkanca.com.tr/google-temmuz-2021-cekirdek-algoritma-guncellemesi-uzerine/)
 - [Çerezler nedir?](https://wolkanca.com.tr/cerezler-nedir/)
+- [MacOS’de disk clonlama](https://wolkanca.com.tr/macosde-disk-clonlama/)
 - [Apple piyasa değeri](https://wolkanca.com.tr/apple-piyasa-degeri/)
 - [Melih Bulu geldiği gibi gitti](https://wolkanca.com.tr/melih-bulu-geldigi-gibi-gitti/)
-- [Online Windows 11 deneyimlemek](https://wolkanca.com.tr/online-windows-11-deneyimlemek/)
 <!-- BLOG-POST-LIST:END -->
 
 
