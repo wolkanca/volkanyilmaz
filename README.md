@@ -11,11 +11,11 @@ Cloudflare Pages. Test. Volkan. https://volkan.pages.dev/
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [uBlock Origin ile CSS kontrolü](https://wolkanca.com.tr/ublock-origin-ile-css-kontrolu/)
 - [GitHub deneyiminizi geliştirmek için Chrome uzantıları](https://wolkanca.com.tr/github-deneyiminizi-gelistirmek-icin-chrome-uzantilari/)
 - [Neden Windows’ta bir dosyaya “CON” ismi verilmez?](https://wolkanca.com.tr/neden-windowsta-bir-dosyaya-con-ismi-verilmez/)
 - [Dünyayı canlı izleyin: SkylineWebcams](https://wolkanca.com.tr/dunyayi-canli-izleyin-skylinewebcams/)
 - [En iyi sahte adres üretici siteler](https://wolkanca.com.tr/en-iyi-sahte-adres-uretici-siteler/)
-- [Google Temmuz 2021 Çekirdek Algoritma güncellemesi üzerine](https://wolkanca.com.tr/google-temmuz-2021-cekirdek-algoritma-guncellemesi-uzerine/)
 <!-- BLOG-POST-LIST:END -->
 
 
