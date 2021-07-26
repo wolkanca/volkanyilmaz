@@ -11,11 +11,11 @@ Cloudflare Pages. Test. Volkan. https://volkan.pages.dev/
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [iTunes olmadan iPhone yedeklemek](https://wolkanca.com.tr/itunes-olmadan-iphone-yedeklemek/)
 - [macOS için Rectangle uygulaması](https://wolkanca.com.tr/macos-icin-rectangle-uygulamasi/)
 - [uBlock Origin ile CSS kontrolü](https://wolkanca.com.tr/ublock-origin-ile-css-kontrolu/)
 - [GitHub deneyiminizi geliştirmek için Chrome uzantıları](https://wolkanca.com.tr/github-deneyiminizi-gelistirmek-icin-chrome-uzantilari/)
 - [Neden Windows’ta bir dosyaya “CON” ismi verilmez?](https://wolkanca.com.tr/neden-windowsta-bir-dosyaya-con-ismi-verilmez/)
-- [Dünyayı canlı izleyin: SkylineWebcams](https://wolkanca.com.tr/dunyayi-canli-izleyin-skylinewebcams/)
 <!-- BLOG-POST-LIST:END -->
 
 
