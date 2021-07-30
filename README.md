@@ -11,11 +11,11 @@ Cloudflare Pages. Test. Volkan. https://volkan.pages.dev/
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Yangın var!](https://wolkanca.com.tr/yangin-var/)
 - [Vanilla JS nedir?](https://wolkanca.com.tr/vanilla-js-nedir/)
 - [Lucifer final sezonu 10 Eylül’de](https://wolkanca.com.tr/lucifer-final-sezonu-10-eylulde/)
 - [iTunes olmadan iPhone yedeklemek](https://wolkanca.com.tr/itunes-olmadan-iphone-yedeklemek/)
 - [macOS için Rectangle uygulaması](https://wolkanca.com.tr/macos-icin-rectangle-uygulamasi/)
-- [uBlock Origin ile CSS kontrolü](https://wolkanca.com.tr/ublock-origin-ile-css-kontrolu/)
 <!-- BLOG-POST-LIST:END -->
 
 
