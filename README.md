@@ -11,11 +11,11 @@ Cloudflare Pages. Test. Volkan. https://volkan.pages.dev/
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Üretkenliğinizi güçlendirecek 14 VS Code kısayolu](https://wolkanca.com.tr/uretkenliginizi-guclendirecek-14-vs-code-kisayolu/)
 - [Tokyo 2020 Olympics](https://wolkanca.com.tr/tokyo-2020-olympics/)
 - [Reis-i Çay](https://wolkanca.com.tr/reis-i-cay/)
 - [Yangın var!](https://wolkanca.com.tr/yangin-var/)
 - [Vanilla JS nedir?](https://wolkanca.com.tr/vanilla-js-nedir/)
-- [Lucifer final sezonu 10 Eylül’de](https://wolkanca.com.tr/lucifer-final-sezonu-10-eylulde/)
 <!-- BLOG-POST-LIST:END -->
 
 
