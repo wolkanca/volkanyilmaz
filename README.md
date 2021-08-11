@@ -12,10 +12,10 @@ Cloudflare Pages. Test. Volkan. https://volkan.pages.dev/
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Farkhunda Malikzada](https://wolkanca.com.tr/farkhunda-malikzada/)
+- [Lucifer final sezon fragmanı](https://wolkanca.com.tr/lucifer-final-sezon-fragmani/)
 - [Yazılımcıların işe alımcılara bakışı](https://wolkanca.com.tr/yazilimcilarin-ise-alimcilara-bakisi/)
 - [SHTML(Server Side Includes) içerisinde PHP kodu çalıştırmak](https://wolkanca.com.tr/shtmlserver-side-includes-icerisinde-php-kodu-calistirmak/)
 - [Vekil](https://wolkanca.com.tr/vekil/)
-- [WordPress hooks/actions çalışma sırası](https://wolkanca.com.tr/wordpress-hooks-actions-calisma-sirasi/)
 <!-- BLOG-POST-LIST:END -->
 
 
