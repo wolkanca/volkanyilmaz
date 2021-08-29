@@ -11,11 +11,11 @@ Cloudflare Pages. Test. Volkan. https://volkan.pages.dev/
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [IsThereAnyDeal](https://wolkanca.com.tr/isthereanydeal/)
 - [Revue ile Twitter kullanın](https://wolkanca.com.tr/revue-ile-twitter-kullanin/)
 - [JavaScript temel if.. else yapı](https://wolkanca.com.tr/javascript-temel-if-else-yapi/)
 - [#SosyalMedyamaDokunma 💪🏻](https://wolkanca.com.tr/sosyalmedyamadokunma-%f0%9f%92%aa%f0%9f%8f%bb/)
 - [2023 nedir?](https://wolkanca.com.tr/2023-nedir/)
-- [Небо/Gökyüzü 2021](https://wolkanca.com.tr/%d0%bd%d0%b5%d0%b1%d0%be-gokyuzu-2021/)
 <!-- BLOG-POST-LIST:END -->
 
 
