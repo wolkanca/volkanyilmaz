@@ -11,11 +11,11 @@ Cloudflare Pages. Test. Volkan. https://volkan.pages.dev/
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Twitter sosyal gizlilik paketi ve safety modu](https://wolkanca.com.tr/twitter-sosyal-gizlilik-paketi-ve-safety-modu/)
 - [Angela Merkel](https://wolkanca.com.tr/angela-merkel/)
 - [WordPress gizli özel alanları göster](https://wolkanca.com.tr/wordpress-gizli-ozel-alanlari-goster/)
 - [follow.it kullanımı](https://wolkanca.com.tr/follow-it-kullanimi/)
 - [Google AI – görüntü iyileştirme](https://wolkanca.com.tr/google-ai-goruntu-iyilestirme/)
-- [Git ve Github basit klavuz](https://wolkanca.com.tr/git-ve-github-basit-klavuz/)
 <!-- BLOG-POST-LIST:END -->
 
 
