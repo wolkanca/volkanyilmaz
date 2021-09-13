@@ -11,11 +11,11 @@ Cloudflare Pages. Test. Volkan. https://volkan.pages.dev/
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [WhatsApp sesli mesajları yazıya dönüştürmek](https://wolkanca.com.tr/whatsapp-sesli-mesajlari-yaziya-donusturmek/)
 - [PHP array_map örneği](https://wolkanca.com.tr/php-array_map-ornegi/)
 - [WordPress body_class eklemek](https://wolkanca.com.tr/wordpress-body_class-eklemek/)
 - [Google Chrome Desktop Sharing Hub in Omnibox](https://wolkanca.com.tr/google-chrome-desktop-sharing-hub-in-omnibox/)
 - [jQuery ihtiyacınız olmayabilir](https://wolkanca.com.tr/jquery-ihtiyaciniz-olmayabilir/)
-- [SEO için sayfa içeriğinde HTML tablolarını kullanmak](https://wolkanca.com.tr/seo-icin-sayfa-iceriginde-html-tablolarini-kullanmak/)
 <!-- BLOG-POST-LIST:END -->
 
 
