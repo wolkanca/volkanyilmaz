@@ -11,11 +11,11 @@ Cloudflare Pages. Test. Volkan. https://volkan.pages.dev/
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Girişiminizi ücretsiz yayınlayacağınız yerler](https://wolkanca.com.tr/girisiminizi-ucretsiz-yayinlayacaginiz-yerler/)
 - [Metni panoya kopyalama – JS](https://wolkanca.com.tr/metni-panoya-kopyalama-js/)
 - [Windows Başlangıçta Store App çalıştırmak](https://wolkanca.com.tr/windows-baslangicta-store-app-calistirmak/)
 - [Detaylı MailChimp kullanımı 2021](https://wolkanca.com.tr/detayli-mailchimp-kullanimi-2021/)
 - [HTML Typewriter text – daktilo efekti yapmak](https://wolkanca.com.tr/html-typewriter-text-daktilo-efekti-yapmak/)
-- [WhatsApp sesli mesajları yazıya dönüştürmek](https://wolkanca.com.tr/whatsapp-sesli-mesajlari-yaziya-donusturmek/)
 <!-- BLOG-POST-LIST:END -->
 
 
