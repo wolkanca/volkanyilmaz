@@ -11,11 +11,11 @@ Cloudflare Pages. Test. Volkan. https://volkan.pages.dev/
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [iPhone iOS reklamlardan kurtulmak](https://wolkanca.com.tr/iphone-ios-reklamlardan-kurtulmak/)
 - [Google Chrome’da cihazları taklit etmek](https://wolkanca.com.tr/google-chromeda-cihazlari-taklit-etmek/)
 - [SEO sertifikaları: işe yarar mı?](https://wolkanca.com.tr/seo-sertifikalari-ise-yarar-mi/)
 - [Opera’da Google Translate](https://wolkanca.com.tr/operada-google-translate/)
 - [20 Killer JavaScript one liner](https://wolkanca.com.tr/20-killer-javascript-one-liner/)
-- [YouTube video indirme özelliği](https://wolkanca.com.tr/youtube-video-indirme-ozelligi/)
 <!-- BLOG-POST-LIST:END -->
 
 
