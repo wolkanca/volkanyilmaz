@@ -11,11 +11,11 @@ Cloudflare Pages. Test. Volkan. https://volkan.pages.dev/
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Paralel evrende bugün](https://wolkanca.com.tr/paralel-evrende-bugun/)
 - [Google Arama temalı websitesi](https://wolkanca.com.tr/google-arama-temali-websitesi/)
 - [Bölücü kebapçılar](https://wolkanca.com.tr/bolucu-kebapcilar/)
 - [İskelet ekranı yükleme animasyonu HTML/CSS](https://wolkanca.com.tr/iskelet-ekrani-yukleme-animasyonu-html-css/)
 - [Pandora Papers](https://wolkanca.com.tr/pandora-papers/)
-- [Google Arama’da e-ticaret için en iyi uygulamalar](https://wolkanca.com.tr/google-aramada-e-ticaret-icin-en-iyi-uygulamalar/)
 <!-- BLOG-POST-LIST:END -->
 
 
