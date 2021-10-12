@@ -11,11 +11,11 @@ Cloudflare Pages. Test. Volkan. https://volkan.pages.dev/
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Ağzına sağlık @nevsinmengu](https://wolkanca.com.tr/agzina-saglik-nevsinmengu/)
 - [Bugün yarından daha zenginiz](https://wolkanca.com.tr/bugun-yarindan-daha-zenginiz/)
 - [Google arama sonuçlarında gitar akort aracı](https://wolkanca.com.tr/google-arama-sonuclarinda-gitar-akort-araci/)
 - [Paralel evrende bugün](https://wolkanca.com.tr/paralel-evrende-bugun/)
 - [Google Arama temalı websitesi](https://wolkanca.com.tr/google-arama-temali-websitesi/)
-- [Bölücü kebapçılar](https://wolkanca.com.tr/bolucu-kebapcilar/)
 <!-- BLOG-POST-LIST:END -->
 
 
