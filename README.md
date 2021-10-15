@@ -11,11 +11,11 @@ Cloudflare Pages. Test. Volkan. https://volkan.pages.dev/
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Luna Display](https://wolkanca.com.tr/luna-display/)
 - [Google mobil sonuçlarda sürekli kaydırmaya geçiyor](https://wolkanca.com.tr/google-mobil-sonuclarda-surekli-kaydirmaya-geciyor/)
 - [12 basit HTML kodu](https://wolkanca.com.tr/12-basit-html-kodu/)
 - [My wergi](https://wolkanca.com.tr/my-wergi/)
 - [Ağzına sağlık @nevsinmengu](https://wolkanca.com.tr/agzina-saglik-nevsinmengu/)
-- [Bugün yarından daha zenginiz](https://wolkanca.com.tr/bugun-yarindan-daha-zenginiz/)
 <!-- BLOG-POST-LIST:END -->
 
 
