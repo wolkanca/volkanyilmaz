@@ -11,11 +11,11 @@ Cloudflare Pages. Test. Volkan. https://volkan.pages.dev/
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Windows 10 için Windows 11 başlat menüsü](https://wolkanca.com.tr/windows-10-icin-windows-11-baslat-menusu/)
 - [Zaman kazandıran Cheat Sheets sayfaları](https://wolkanca.com.tr/zaman-kazandiran-cheat-sheets-sayfalari/)
 - [Sorununuz ekonomi mi?](https://wolkanca.com.tr/sorununuz-ekonomi-mi/)
 - [Instagram Türkiye’de web fotoğraf / video yükleme açıldı](https://wolkanca.com.tr/instagram-turkiyede-web-fotograf-video-yukleme-acildi/)
 - [MacBook Pro 2021](https://wolkanca.com.tr/macbook-pro-2021/)
-- [Twitter, grup sohbet uygulaması Sphere’i satın aldı](https://wolkanca.com.tr/twitter-grup-sohbet-uygulamasi-spherei-satin-aldi/)
 <!-- BLOG-POST-LIST:END -->
 
 
