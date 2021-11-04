@@ -11,11 +11,11 @@ Cloudflare Pages. Test. Volkan. https://volkan.pages.dev/
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Barış Akarsu’nun annesi hayatını kaybetti](https://wolkanca.com.tr/baris-akarsunun-annesi-hayatini-kaybetti/)
 - [Email 50 yaşında](https://wolkanca.com.tr/email-50-yasinda/)
 - [Bir Masalda İki Kral Olmaz](https://wolkanca.com.tr/bir-masalda-iki-kral-olmaz/)
 - [Kısa vs Uzun URL SEO farkı nedir?](https://wolkanca.com.tr/kisa-vs-uzun-url-seo-farki-nedir/)
 - [Kendi VPN’inizi yapın](https://wolkanca.com.tr/kendi-vpninizi-yapin/)
-- [O geldi, Twitch](https://wolkanca.com.tr/o-geldi-twitch/)
 <!-- BLOG-POST-LIST:END -->
 
 
