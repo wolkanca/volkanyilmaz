@@ -11,11 +11,11 @@ Cloudflare Pages. Test. Volkan. https://volkan.pages.dev/
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Tüm korkunç Türklerin en korkuncu](https://wolkanca.com.tr/tum-korkunc-turklerin-en-korkuncu/)
 - [Atatürk’ün hazırlattığı hutbeler](https://wolkanca.com.tr/ataturkun-hazirlattigi-hutbeler/)
 - [10 harika CSS hamburger menü](https://wolkanca.com.tr/10-harika-css-hamburger-menu/)
 - [PayPal pazar payı](https://wolkanca.com.tr/paypal-pazar-payi/)
 - [WhatsApp Desktop](https://wolkanca.com.tr/whatsapp-desktop/)
-- [Jahrein ve ekibi Twitch’i bırakıyor](https://wolkanca.com.tr/jahrein-ve-ekibi-twitchi-birakiyor/)
 <!-- BLOG-POST-LIST:END -->
 
 
