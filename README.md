@@ -11,11 +11,11 @@ Cloudflare Pages. Test. Volkan. https://volkan.pages.dev/
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [John Wick: Hagakure](https://wolkanca.com.tr/john-wick-hagakure/)
 - [Twitter web sürümünde resimler artık tam boyut](https://wolkanca.com.tr/twitter-web-surumunde-resimler-artik-tam-boyut/)
 - [Yazım kuralları – Türkçe](https://wolkanca.com.tr/yazim-kurallari-turkce/)
 - [Tüm korkunç Türklerin en korkuncu](https://wolkanca.com.tr/tum-korkunc-turklerin-en-korkuncu/)
 - [Atatürk’ün hazırlattığı hutbeler](https://wolkanca.com.tr/ataturkun-hazirlattigi-hutbeler/)
-- [10 harika CSS hamburger menü](https://wolkanca.com.tr/10-harika-css-hamburger-menu/)
 <!-- BLOG-POST-LIST:END -->
 
 
