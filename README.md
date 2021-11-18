@@ -11,11 +11,11 @@ Cloudflare Pages. Test. Volkan. https://volkan.pages.dev/
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Matrix Resurrections ilk afiş yayınlandı](https://wolkanca.com.tr/the-matrix-resurrections-ilk-afis-yayinlandi/)
 - [Soylent Green &lpar;1973&rpar;](https://wolkanca.com.tr/soylent-green-1973/)
 - [Videolar için önemli anlar snippet](https://wolkanca.com.tr/videolar-icin-onemli-anlar-snippet/)
 - [İnsaf et kombi](https://wolkanca.com.tr/insaf-et-kombi/)
 - [You Don’t Know JS Yet &lpar;kitap serisi&rpar;](https://wolkanca.com.tr/you-dont-know-js-yet-kitap-serisi/)
-- [John Wick: Hagakure](https://wolkanca.com.tr/john-wick-hagakure/)
 <!-- BLOG-POST-LIST:END -->
 
 
