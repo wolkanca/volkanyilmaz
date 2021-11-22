@@ -11,11 +11,11 @@ Cloudflare Pages. Test. Volkan. https://volkan.pages.dev/
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Lighthouse 9.0 çıktı](https://wolkanca.com.tr/lighthouse-9-0-cikti/)
 - [Taylan Yıldız 8 Kasım İBB Meclis](https://wolkanca.com.tr/taylan-yildiz-8-kasim-ibb-meclis/)
 - [Patronunuzu açık kaynak için nasıl ikna edersin?](https://wolkanca.com.tr/patronunuzu-acik-kaynak-icin-nasil-ikna-edersin/)
 - [Nass](https://wolkanca.com.tr/nass/)
 - [Terminal tarzı bir web sitesi](https://wolkanca.com.tr/terminal-tarzi-bir-web-sitesi/)
-- [The Matrix Resurrections ilk afiş yayınlandı](https://wolkanca.com.tr/the-matrix-resurrections-ilk-afis-yayinlandi/)
 <!-- BLOG-POST-LIST:END -->
 
 
