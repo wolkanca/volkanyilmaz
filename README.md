@@ -11,11 +11,11 @@ Cloudflare Pages. Test. Volkan. https://volkan.pages.dev/
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Bir Software Developer olarak ruh sağlığı](https://wolkanca.com.tr/bir-software-developer-olarak-ruh-sagligi/)
 - [JS mülakat soruları &lpar;cevaplarıyla&rpar;](https://wolkanca.com.tr/js-mulakat-sorulari-cevaplariyla/)
 - [Kullanışlı 18 Python kodu](https://wolkanca.com.tr/kullanisli-18-python-kodu/)
 - [phpMyAdmin WordPress post_modified](https://wolkanca.com.tr/phpmyadmin-wordpress-post_modified/)
 - [Akın var güneşe akın!](https://wolkanca.com.tr/akin-var-gunese-akin/)
-- [Lighthouse 9.0 çıktı](https://wolkanca.com.tr/lighthouse-9-0-cikti/)
 <!-- BLOG-POST-LIST:END -->
 
 
