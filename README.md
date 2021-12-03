@@ -11,11 +11,11 @@ Cloudflare Pages. Test. Volkan. https://volkan.pages.dev/
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Dünya Engelliler Günü](https://wolkanca.com.tr/dunya-engelliler-gunu/)
+- [Est modus in rebus](https://wolkanca.com.tr/est-modus-in-rebus/)
 - [Ons Amsterdam](https://wolkanca.com.tr/ons-amsterdam/)
 - [Mobil öncelikli tarama tarihi iptal](https://wolkanca.com.tr/mobil-oncelikli-tarama-tarihi-iptal/)
 - [Bir Software Developer olarak ruh sağlığı](https://wolkanca.com.tr/bir-software-developer-olarak-ruh-sagligi/)
-- [JS mülakat soruları &lpar;cevaplarıyla&rpar;](https://wolkanca.com.tr/js-mulakat-sorulari-cevaplariyla/)
-- [Kullanışlı 18 Python kodu](https://wolkanca.com.tr/kullanisli-18-python-kodu/)
 <!-- BLOG-POST-LIST:END -->
 
 
