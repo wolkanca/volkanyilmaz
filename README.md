@@ -11,11 +11,11 @@ Cloudflare Pages. Test. Volkan. https://volkan.pages.dev/
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Osmanlı torunları?](https://wolkanca.com.tr/osmanli-torunlari/)
 - [Yaşıyorum bu hayatı](https://wolkanca.com.tr/yasiyorum-bu-hayati/)
 - [Dijital detoksun teknik tarafı](https://wolkanca.com.tr/dijital-detoksun-teknik-tarafi/)
 - [WhatsApp CRM app](https://wolkanca.com.tr/whatsapp-crm-app/)
 - [The Wheel Of Time](https://wolkanca.com.tr/the-wheel-of-time/)
-- [Cem Özdemir Almanya Gıda ve Tarım Bakanı oldu](https://wolkanca.com.tr/cem-ozdemir-almanya-gida-ve-tarim-bakani-oldu/)
 <!-- BLOG-POST-LIST:END -->
 
 
