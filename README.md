@@ -11,11 +11,11 @@ Cloudflare Pages. Test. Volkan. https://volkan.pages.dev/
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Gerçek enflasyonu görmek isteyenlere: akakce.com](https://wolkanca.com.tr/gercek-enflasyonu-gormek-isteyenlere-akakce-com/)
 - [Dexter New Blood](https://wolkanca.com.tr/dexter-new-blood/)
 - [Kobilerde veri güvenliği](https://wolkanca.com.tr/kobilerde-veri-guvenligi/)
 - [Osmanlı torunları?](https://wolkanca.com.tr/osmanli-torunlari/)
 - [Yaşıyorum bu hayatı](https://wolkanca.com.tr/yasiyorum-bu-hayati/)
-- [Dijital detoksun teknik tarafı](https://wolkanca.com.tr/dijital-detoksun-teknik-tarafi/)
 <!-- BLOG-POST-LIST:END -->
 
 
