@@ -11,11 +11,11 @@ Cloudflare Pages. Test. Volkan. https://volkan.pages.dev/
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [WordPress DB tabloda belirli alanları toplu olarak almak](https://wolkanca.com.tr/wordpress-db-tabloda-belirli-alanlari-toplu-olarak-almak/)
 - [Başka bir WordPress veritabanına bağlanmak](https://wolkanca.com.tr/baska-bir-wordpress-veritabanina-baglanmak/)
 - [Gerçek enflasyonu görmek isteyenlere: akakce.com](https://wolkanca.com.tr/gercek-enflasyonu-gormek-isteyenlere-akakce-com/)
 - [Dexter New Blood](https://wolkanca.com.tr/dexter-new-blood/)
 - [Kobilerde veri güvenliği](https://wolkanca.com.tr/kobilerde-veri-guvenligi/)
-- [Osmanlı torunları?](https://wolkanca.com.tr/osmanli-torunlari/)
 <!-- BLOG-POST-LIST:END -->
 
 
