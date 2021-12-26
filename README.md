@@ -11,11 +11,11 @@ Cloudflare Pages. Test. Volkan. https://volkan.pages.dev/
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [1000+ Web development kaynakları](https://wolkanca.com/1000-web-development-kaynaklari/)
 - [CSS’i savunmak](https://wolkanca.com/cssi-savunmak/)
 - [Vanilla JavaScript ile QR kod generator](https://wolkanca.com/vanilla-javascript-ile-qr-kod-generator/)
 - [Hızlı ve sağlıklı kilo vermek](https://wolkanca.com/hizli-ve-saglikli-kilo-vermek/)
 - [“wolkanca” ekşisözlük maddesi](https://wolkanca.com/wolkanca-eksisozluk-maddesi/)
-- [WordPress DB tabloda belirli alanları toplu olarak almak](https://wolkanca.com/wordpress-db-tabloda-belirli-alanlari-toplu-olarak-almak/)
 <!-- BLOG-POST-LIST:END -->
 
 
