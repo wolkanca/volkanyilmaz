@@ -21,5 +21,5 @@ Cloudflare Pages. Test. Volkan. https://volkan.pages.dev/
 
 ### Volkan Yılmaz
 
-[Volkan Yılmaz](https://volkanyilmaz.com.tr/) - [wolkanca](https://wolkanca.com.tr/)
+[Volkan Yılmaz](https://volkanyilmaz.com.tr/) - [wolkanca](https://wolkanca.com/)
 
