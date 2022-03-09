@@ -11,11 +11,11 @@ Cloudflare Pages. Test. Volkan. https://volkan.pages.dev/
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Upload / Yükleme](https://wolkanca.com/upload-yukleme/)
 - [Wordle hack](https://wolkanca.com/wordle-hack/)
 - [WordPress Block Editor SVG çıktısından kurtulmak](https://wolkanca.com/wordpress-block-editor-svg-ciktisindan-kurtulmak/)
 - [Reacher olur gibi](https://wolkanca.com/reacher-olur-gibi/)
 - [Loki 2. sezon onaylandı](https://wolkanca.com/loki-2-sezon-onaylandi/)
-- [The Book of Boba Fett, izlenir](https://wolkanca.com/the-book-of-boba-fett-izlenir/)
 <!-- BLOG-POST-LIST:END -->
 
 
