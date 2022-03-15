@@ -11,11 +11,11 @@ Cloudflare Pages. Test. Volkan. https://volkan.pages.dev/
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [MetaMask güvenli mi?](https://wolkanca.com/metamask-guvenli-mi/)
 - [İzledim: La casa de papel](https://wolkanca.com/izledim-la-casa-de-papel/)
 - [Cloudflare toplu yönlendirmeler / Bulk Redirects](https://wolkanca.com/cloudflare-toplu-yonlendirmeler-bulk-redirects/)
 - [Upload / Yükleme](https://wolkanca.com/upload-yukleme/)
 - [Wordle hack](https://wolkanca.com/wordle-hack/)
-- [WordPress Block Editor SVG çıktısından kurtulmak](https://wolkanca.com/wordpress-block-editor-svg-ciktisindan-kurtulmak/)
 <!-- BLOG-POST-LIST:END -->
 
 
