@@ -13,9 +13,9 @@ Cloudflare Pages. Test. Volkan. https://volkan.pages.dev/
 <!-- BLOG-POST-LIST:START -->
 - [Google Domains artık beta değil](https://wolkanca.com/google-domains-artik-beta-degil/)
 - [MetaMask güvenli mi?](https://wolkanca.com/metamask-guvenli-mi/)
+- [Hayatımdaki en büyük yatırımlar](https://wolkanca.com/hayatimdaki-en-buyuk-yatirimlar/)
 - [İzledim: La casa de papel](https://wolkanca.com/izledim-la-casa-de-papel/)
 - [Cloudflare toplu yönlendirmeler / Bulk Redirects](https://wolkanca.com/cloudflare-toplu-yonlendirmeler-bulk-redirects/)
-- [Upload / Yükleme](https://wolkanca.com/upload-yukleme/)
 <!-- BLOG-POST-LIST:END -->
 
 
