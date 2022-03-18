@@ -11,11 +11,11 @@ Cloudflare Pages. Test. Volkan. https://volkan.pages.dev/
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Sorare NFT oyunu nasıl oynanır?](https://wolkanca.com/sorare-nft-oyunu-nasil-oynanir/)
 - [Google Domains artık beta değil](https://wolkanca.com/google-domains-artik-beta-degil/)
 - [MetaMask güvenli mi?](https://wolkanca.com/metamask-guvenli-mi/)
 - [Hayatımdaki en büyük yatırımlar](https://wolkanca.com/hayatimdaki-en-buyuk-yatirimlar/)
 - [İzledim: La casa de papel](https://wolkanca.com/izledim-la-casa-de-papel/)
-- [Cloudflare toplu yönlendirmeler / Bulk Redirects](https://wolkanca.com/cloudflare-toplu-yonlendirmeler-bulk-redirects/)
 <!-- BLOG-POST-LIST:END -->
 
 
