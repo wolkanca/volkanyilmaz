@@ -12,10 +12,10 @@ Cloudflare Pages. Test. Volkan. https://volkan.pages.dev/
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Microsoft Office, artık Microsoft 365 haline dönüşüyor](https://wolkanca.com/microsoft-office-artik-microsoft-365-haline-donusuyor/)
+- [Windows Defender koruma geçmişini silmek](https://wolkanca.com/windows-defender-koruma-gecmisini-silmek/)
 - [Aynı isimde Tag ve Category kullanımı](https://wolkanca.com/ayni-isimde-tag-ve-category-kullanimi/)
 - [Yoast SEO breadcrumbs](https://wolkanca.com/yoast-seo-breadcrumbs/)
 - [WordPress Sanal POS Entegrasyonu Nasıl Yapılır?](https://wolkanca.com/wordpress-sanal-pos-entegrasyonu-nasil-yapilir/)
-- [Netflix reklam katmanı ekliyor](https://wolkanca.com/netflix-reklam-katmani-ekliyor/)
 <!-- BLOG-POST-LIST:END -->
 
 
