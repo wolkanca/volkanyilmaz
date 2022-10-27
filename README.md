@@ -11,11 +11,11 @@ Cloudflare Pages. Test. Volkan. https://volkan.pages.dev/
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Elon Mush Twitter’ı aldı](https://wolkanca.com/elon-mush-twitteri-aldi/)
 - [IMDB’de en iyi 25 Türk dizisi](https://wolkanca.com/imdbde-en-iyi-25-turk-dizisi/)
 - [Halit Kıvanç’ı kaybettik](https://wolkanca.com/halit-kivanci-kaybettik/)
 - [Google Fiber hızlı geniş bant hizmetlerini başlatıyor](https://wolkanca.com/google-fiber-hizli-genis-bant-hizmetlerini-baslatiyor/)
 - [Cloudflare Cache Rules](https://wolkanca.com/cloudflare-cache-rules/)
-- [Google SPAM Algoritma Güncellemesi Yayımladı](https://wolkanca.com/google-spam-algoritma-guncellemesi-yayimladi/)
 <!-- BLOG-POST-LIST:END -->
 
 
