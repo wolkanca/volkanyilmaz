@@ -11,11 +11,11 @@ Cloudflare Pages. Test. Volkan. https://volkan.pages.dev/
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [İşte Çalıntı Fotoğraflarınızı Çevrimiçi Bulmanın Yolları](https://wolkanca.com/iste-calinti-fotograflarinizi-cevrimici-bulmanin-yollari/)
 - [Twitter’da resmi hesaplar için gri tik](https://wolkanca.com/twitterda-resmi-hesaplar-icin-gri-tik/)
 - [WordPress için eklentisiz sitemap.txt](https://wolkanca.com/wordpress-icin-eklentisiz-sitemap-txt/)
 - [Google indexing API kurulumu](https://wolkanca.com/google-indexing-api-kurulumu/)
 - [Mustafa Kemal Atatürk’ün bilinen ilk fotoğrafı](https://wolkanca.com/mustafa-kemal-ataturkun-bilinen-ilk-fotografi/)
-- [Yeni Twitter Blue 8 dolar](https://wolkanca.com/yeni-twitter-blue-8-dolar/)
 <!-- BLOG-POST-LIST:END -->
 
 
