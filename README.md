@@ -11,11 +11,11 @@ Cloudflare Pages. Test. Volkan. https://volkan.pages.dev/
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Google arama konu başlıkları](https://wolkanca.com/google-arama-konu-basliklari/)
 - [Google sürekli kaydırma](https://wolkanca.com/google-surekli-kaydirma/)
 - [Google One VPN](https://wolkanca.com/google-one-vpn/)
 - [2022’nin En Çok İzlenen Dizi ve Filmleri](https://wolkanca.com/2022nin-en-cok-izlenen-dizi-ve-filmleri/)
 - [Twitter’ın potansiyel çöküşü yakın insanlık tarihinin geniş bir kaydını silebilir](https://wolkanca.com/twitterin-potansiyel-cokusu-yakin-insanlik-tarihinin-genis-bir-kaydini-silebilir/)
-- [İşte Çalıntı Fotoğraflarınızı Çevrimiçi Bulmanın Yolları](https://wolkanca.com/iste-calinti-fotograflarinizi-cevrimici-bulmanin-yollari/)
 <!-- BLOG-POST-LIST:END -->
 
 
