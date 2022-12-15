@@ -11,11 +11,11 @@ Cloudflare Pages. Test. Volkan. https://volkan.pages.dev/
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Twitter’ın uygulaması Revue kapandı](https://wolkanca.com/twitterin-uygulamasi-revue-kapandi/)
 - [Google Arama Durum Gösterge Tablosu](https://wolkanca.com/google-arama-durum-gosterge-tablosu/)
 - [Twitter’da sarı tik/gold checkmark uygulaması başladı](https://wolkanca.com/twitterda-sari-tik-gold-checkmark-uygulamasi-basladi/)
 - [Sanal Telefon Numarası Sağlayıcı Seçmeden Önce Sorulacak Sorular](https://wolkanca.com/sanal-telefon-numarasi-saglayici-secmeden-once-sorulacak-sorular/)
 - [Elon Musk Twitter’da temizlik yapıyor](https://wolkanca.com/elon-musk-twitterda-temizlik-yapiyor/)
-- [2022 Google’da en çok neler arandı?](https://wolkanca.com/2022-googleda-en-cok-neler-arandi/)
 <!-- BLOG-POST-LIST:END -->
 
 
