@@ -11,11 +11,11 @@ Cloudflare Pages. Test. Volkan. https://volkan.pages.dev/
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Diş beyazlatmak zararlı mıdır?](https://wolkanca.com/dis-beyazlatmak-zararli-midir/)
 - [Google Arama sonuçları sayfasının yapı taşları](https://wolkanca.com/google-arama-sonuclari-sayfasinin-yapi-taslari/)
 - [Twitter’ın uygulaması Revue kapandı](https://wolkanca.com/twitterin-uygulamasi-revue-kapandi/)
 - [Google Arama Durum Gösterge Tablosu](https://wolkanca.com/google-arama-durum-gosterge-tablosu/)
 - [Twitter’da sarı tik/gold checkmark uygulaması başladı](https://wolkanca.com/twitterda-sari-tik-gold-checkmark-uygulamasi-basladi/)
-- [Sanal Telefon Numarası Sağlayıcı Seçmeden Önce Sorulacak Sorular](https://wolkanca.com/sanal-telefon-numarasi-saglayici-secmeden-once-sorulacak-sorular/)
 <!-- BLOG-POST-LIST:END -->
 
 
