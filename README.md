@@ -12,10 +12,10 @@ Cloudflare Pages. Test. Volkan. https://volkan.pages.dev/
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Tweet görüntülenme sayıları herkese açık](https://wolkanca.com/tweet-goruntulenme-sayilari-herkese-acik/)
+- [İllegal Hayatlar 13 Ocak’ta](https://wolkanca.com/illegal-hayatlar-13-ocakta/)
 - [İntihal için ücretsiz kontrol](https://wolkanca.com/intihal-icin-ucretsiz-kontrol/)
 - [iPhone 15 Ultra](https://wolkanca.com/iphone-15-ultra/)
 - [Diş beyazlatmak zararlı mıdır?](https://wolkanca.com/dis-beyazlatmak-zararli-midir/)
-- [Google Arama sonuçları sayfasının yapı taşları](https://wolkanca.com/google-arama-sonuclari-sayfasinin-yapi-taslari/)
 <!-- BLOG-POST-LIST:END -->
 
 
