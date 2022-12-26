@@ -11,11 +11,11 @@ Cloudflare Pages. Test. Volkan. https://volkan.pages.dev/
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Html ve CSS ile responsive navbar](https://wolkanca.com/html-ve-css-ile-responsive-navbar/)
 - [Yüzünüzü göstermeden Youtube’dan para kazanmak](https://wolkanca.com/yuzunuzu-gostermeden-youtubedan-para-kazanmak/)
 - [LastPass kullananlar tehlikede](https://wolkanca.com/lastpass-kullananlar-tehlikede/)
 - [Tweet görüntülenme sayıları herkese açık](https://wolkanca.com/tweet-goruntulenme-sayilari-herkese-acik/)
 - [İllegal Hayatlar 13 Ocak’ta](https://wolkanca.com/illegal-hayatlar-13-ocakta/)
-- [İntihal için ücretsiz kontrol](https://wolkanca.com/intihal-icin-ucretsiz-kontrol/)
 <!-- BLOG-POST-LIST:END -->
 
 
