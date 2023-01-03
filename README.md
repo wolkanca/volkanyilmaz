@@ -11,11 +11,11 @@ Cloudflare Pages. Test. Volkan. https://volkan.pages.dev/
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [ChatGPT işinizi elinizden alacak mı?](https://wolkanca.com/chatgpt-isinizi-elinizden-alacak-mi/)
 - [En yeni ve önemli 17 teknoloji trendi 2023](https://wolkanca.com/en-yeni-ve-onemli-17-teknoloji-trendi-2023/)
 - [Google için ChatGPT](https://wolkanca.com/google-icin-chatgpt/)
 - [Office 365 Ücretsiz olarak nasıl indirilir ve kurulur](https://wolkanca.com/office-365-ucretsiz-olarak-nasil-indirilir-ve-kurulur/)
 - [Adeus Pelé](https://wolkanca.com/adeus-pele/)
-- [YouTube’un Bir Yılı, 2022](https://wolkanca.com/youtubeun-bir-yili-2022/)
 <!-- BLOG-POST-LIST:END -->
 
 
