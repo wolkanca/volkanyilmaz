@@ -11,11 +11,11 @@ Cloudflare Pages. Test. Volkan. https://volkan.pages.dev/
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [AI tarafından oluşturulan metin nasıl tespit edilir?](https://wolkanca.com/ai-tarafindan-olusturulan-metin-nasil-tespit-edilir/)
 - [ChatGPT işinizi elinizden alacak mı?](https://wolkanca.com/chatgpt-isinizi-elinizden-alacak-mi/)
 - [En yeni ve önemli 17 teknoloji trendi 2023](https://wolkanca.com/en-yeni-ve-onemli-17-teknoloji-trendi-2023/)
 - [Nice senelere Bitcoin!](https://wolkanca.com/nice-senelere-bitcoin/)
 - [Google için ChatGPT](https://wolkanca.com/google-icin-chatgpt/)
-- [Office 365 Ücretsiz olarak nasıl indirilir ve kurulur](https://wolkanca.com/office-365-ucretsiz-olarak-nasil-indirilir-ve-kurulur/)
 <!-- BLOG-POST-LIST:END -->
 
 
