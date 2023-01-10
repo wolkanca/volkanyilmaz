@@ -11,11 +11,11 @@ Cloudflare Pages. Test. Volkan. https://volkan.pages.dev/
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Wednesday 2. sezon](https://wolkanca.com/wednesday-2-sezon/)
 - [YapayZeka ChatGPT nasıl kullanılır?](https://wolkanca.com/yapayzeka-chatgpt-nasil-kullanilir/)
 - [Markanızın Görünürlüğünü ve Güvenilirliğini Oluşturmanın Kesin Yolu](https://wolkanca.com/markanizin-gorunurlugunu-ve-guvenilirligini-olusturmanin-kesin-yolu/)
 - [Youtuberlar için en iyi laptop seçimleri](https://wolkanca.com/youtuberlar-icin-en-iyi-laptop-secimleri/)
 - [Google Analytics GA4 Migrator](https://wolkanca.com/google-analytics-ga4-migrator/)
-- [AI tarafından oluşturulan metin nasıl tespit edilir?](https://wolkanca.com/ai-tarafindan-olusturulan-metin-nasil-tespit-edilir/)
 <!-- BLOG-POST-LIST:END -->
 
 
