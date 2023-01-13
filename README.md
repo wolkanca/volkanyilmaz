@@ -11,11 +11,11 @@ Cloudflare Pages. Test. Volkan. https://volkan.pages.dev/
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [ChatGPT’ye WordPress eklentisi üretebilir](https://wolkanca.com/chatgptye-wordpress-eklentisi-uretebilir/)
 - [Apple Business Connect](https://wolkanca.com/apple-business-connect/)
 - [Dünyanın en çok para kaybeden insanı](https://wolkanca.com/dunyanin-en-cok-para-kaybeden-insani/)
 - [LastPass kullanıcı verileri hackerların elinde](https://wolkanca.com/lastpass-kullanici-verileri-hackerlarin-elinde/)
 - [Wednesday 2. sezon](https://wolkanca.com/wednesday-2-sezon/)
-- [YapayZeka ChatGPT nasıl kullanılır?](https://wolkanca.com/yapayzeka-chatgpt-nasil-kullanilir/)
 <!-- BLOG-POST-LIST:END -->
 
 
