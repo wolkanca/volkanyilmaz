@@ -11,11 +11,11 @@ Cloudflare Pages. Test. Volkan. https://volkan.pages.dev/
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Teknoloji şirketlerinin işten çıkarmaları](https://wolkanca.com/teknoloji-sirketlerinin-isten-cikarmalari/)
 - [Film Mirasım KTB](https://wolkanca.com/film-mirasim-ktb/)
 - [Jacinda Ardern istifa etti](https://wolkanca.com/jacinda-ardern-istifa-etti/)
 - [Netflix’ten Sedat Peker’e teklif](https://wolkanca.com/netflixten-sedat-pekere-teklif/)
 - [LinkedIn şirket sayfası çalışan gizleme](https://wolkanca.com/linkedin-sirket-sayfasi-calisan-gizleme/)
-- [OpenAI, ChatGPT’nin Ücretli Pro Sürümü yakında](https://wolkanca.com/openai-chatgptnin-ucretli-pro-surumu-yakinda/)
 <!-- BLOG-POST-LIST:END -->
 
 
