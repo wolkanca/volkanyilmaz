@@ -11,11 +11,11 @@ Cloudflare Pages. Test. Volkan. https://volkan.pages.dev/
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Twitter 3. parti uygulamaları askıya aldı](https://wolkanca.com/twitter-3-parti-uygulamalari-askiya-aldi/)
 - [Teknoloji şirketlerinin işten çıkarmaları](https://wolkanca.com/teknoloji-sirketlerinin-isten-cikarmalari/)
 - [Film Mirasım KTB](https://wolkanca.com/film-mirasim-ktb/)
 - [Jacinda Ardern istifa etti](https://wolkanca.com/jacinda-ardern-istifa-etti/)
 - [Netflix’ten Sedat Peker’e teklif](https://wolkanca.com/netflixten-sedat-pekere-teklif/)
-- [LinkedIn şirket sayfası çalışan gizleme](https://wolkanca.com/linkedin-sirket-sayfasi-calisan-gizleme/)
 <!-- BLOG-POST-LIST:END -->
 
 
