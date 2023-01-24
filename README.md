@@ -11,11 +11,11 @@ Cloudflare Pages. Test. Volkan. https://volkan.pages.dev/
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [2023 Oscar Aday Listesi](https://wolkanca.com/2023-oscar-aday-listesi/)
 - [Google chatbot özelliklerini kullanıma sunacak](https://wolkanca.com/google-chatbot-ozelliklerini-kullanima-sunacak/)
 - [Twitter 3. parti uygulamaları askıya aldı](https://wolkanca.com/twitter-3-parti-uygulamalari-askiya-aldi/)
 - [Teknoloji şirketlerinin işten çıkarmaları](https://wolkanca.com/teknoloji-sirketlerinin-isten-cikarmalari/)
 - [Film Mirasım KTB](https://wolkanca.com/film-mirasim-ktb/)
-- [Jacinda Ardern istifa etti](https://wolkanca.com/jacinda-ardern-istifa-etti/)
 <!-- BLOG-POST-LIST:END -->
 
 
