@@ -11,11 +11,11 @@ Cloudflare Pages. Test. Volkan. https://volkan.pages.dev/
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Dünyanın En Çok Ziyaret Edilen 50 Web Sitesi 2022](https://wolkanca.com/dunyanin-en-cok-ziyaret-edilen-50-web-sitesi-2022/)
+- [İlk kez yayınlanan post hook](https://wolkanca.com/ilk-kez-yayinlanan-post-hook/)
+- [Dünyanın en çok ziyaret edilen 50 web sitesi 2022](https://wolkanca.com/dunyanin-en-cok-ziyaret-edilen-50-web-sitesi-2022/)
 - [Ölü İnternet Teorisi](https://wolkanca.com/olu-internet-teorisi/)
 - [MusicLM metinlerden müzik oluşturabiliyor](https://wolkanca.com/musiclm-metinlerden-muzik-olusturabiliyor/)
 - [Turhost bot engelleme modülü](https://wolkanca.com/turhost-bot-engelleme-modulu/)
-- [Windows’da WiFi önceliğini değiştirmek](https://wolkanca.com/windowsda-wifi-onceligini-degistirmek/)
 <!-- BLOG-POST-LIST:END -->
 
 
