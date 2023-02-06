@@ -12,10 +12,10 @@ Cloudflare Pages. Test. Volkan. https://volkan.pages.dev/
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Instagram kurucularından yeni TikTok alternatifi uygulama](https://wolkanca.com/instagram-kurucularindan-yeni-tiktok-alternatifi-uygulama/)
+- [Bob Marley Day – 6 Şubat](https://wolkanca.com/bob-marley-day-6-subat/)
 - [İle bitiyorsa {PHP}](https://wolkanca.com/ile-bitiyorsa-php/)
 - [Twitter reklam gelirlerini paylaşacak](https://wolkanca.com/twitter-reklam-gelirlerini-paylasacak/)
 - [Kuantum bilgisayar devrimi](https://wolkanca.com/kuantum-bilgisayarlar-sayisiz-sorunu-cozebilir-ve-pek-cok-yeni-sorun-yaratabilir/)
-- [ChatGPT Bing arama motoruna ekleniyor](https://wolkanca.com/chatgpt-bing-arama-motoruna-ekleniyor/)
 <!-- BLOG-POST-LIST:END -->
 
 
