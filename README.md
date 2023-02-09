@@ -11,11 +11,11 @@ Cloudflare Pages. Test. Volkan. https://volkan.pages.dev/
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [2023’de PHP](https://wolkanca.com/2023de-php/)
+- [VPN nedir, nasıl kullanılır?](https://wolkanca.com/vpn-nedir-nasil-kullanilir/)
 - [ChatGPT, Google’ın yazılımcı mülakatını geçti](https://wolkanca.com/chatgpt-googlein-yazilimci-mulakatini-gecti/)
 - [Instagram kurucularından yeni TikTok alternatifi uygulama](https://wolkanca.com/instagram-kurucularindan-yeni-tiktok-alternatifi-uygulama/)
 - [Bob Marley Day – 6 Şubat](https://wolkanca.com/bob-marley-day-6-subat/)
-- [İle bitiyorsa {PHP}](https://wolkanca.com/ile-bitiyorsa-php/)
-- [Twitter reklam gelirlerini paylaşacak](https://wolkanca.com/twitter-reklam-gelirlerini-paylasacak/)
 <!-- BLOG-POST-LIST:END -->
 
 
