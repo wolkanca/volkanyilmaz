@@ -11,11 +11,11 @@ Cloudflare Pages. Test. Volkan. https://volkan.pages.dev/
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft’un yeni yapay zekası konuşmanızı taklit ediyor](https://wolkanca.com/microsoftun-yeni-yapay-zekasi-konusmanizi-taklit-ediyor/)
 - [Joker: Folie à Deux](https://wolkanca.com/joker-folie-a-deux/)
 - [Google, deprem ile ilgili](https://wolkanca.com/google-deprem-ile-ilgili/)
 - [El hareketleri ile kontrol edilebilen drone](https://wolkanca.com/el-hareketleri-ile-kontrol-edilebilen-drone/)
 - [nth-child nasıl çalışıyor?](https://wolkanca.com/nth-child-nasil-calisiyor/)
-- [Çimlerin rengi](https://wolkanca.com/cimlerin-rengi/)
 <!-- BLOG-POST-LIST:END -->
 
 
