@@ -11,11 +11,11 @@ Cloudflare Pages. Test. Volkan. https://volkan.pages.dev/
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft Edge yerleşik VPN ekledi](https://wolkanca.com/microsoft-edge-yerlesik-vpn-ekledi/)
 - [Bing AI konuşmaları neden sınırlanıyor?](https://wolkanca.com/bing-ai-konusmalari-neden-sinirlaniyor/)
 - [2024 Renault Clio görüntülendi](https://wolkanca.com/2024-renault-clio-goruntulendi/)
 - [Google’ın yapay zeka ile oluşturulan içerikle ilgili rehberi](https://wolkanca.com/googlein-yapay-zeka-ile-olusturulan-icerikle-ilgili-rehberi/)
 - [Twitter 2 faktörlü doğrulama değişikliği](https://wolkanca.com/twitter-2-faktorlu-dogrulama-degisikligi/)
-- [Microsoft’un yeni yapay zekası konuşmanızı taklit ediyor](https://wolkanca.com/microsoftun-yeni-yapay-zekasi-konusmanizi-taklit-ediyor/)
 <!-- BLOG-POST-LIST:END -->
 
 
