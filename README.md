@@ -11,11 +11,11 @@ Cloudflare Pages. Test. Volkan. https://volkan.pages.dev/
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Google site taşıma belgeleri güncellendi](https://wolkanca.com/google-site-tasima-belgeleri-guncellendi/)
 - [Google Workspace tasarımı değişiyor](https://wolkanca.com/google-workspace-tasarimi-degisiyor/)
 - [Yüzüklerin Efendisi film serisine devam](https://wolkanca.com/yuzuklerin-efendisi-film-serisine-devam/)
 - [YouTube Music’e podcast eklendi](https://wolkanca.com/youtube-musice-podcast-eklendi/)
 - [Spotify, yapay zeka destekli DJ özelliği](https://wolkanca.com/spotify-yapay-zeka-destekli-dj-ozelligi/)
-- [Microsoft Bing AI Prometheus ve ChatGPT](https://wolkanca.com/microsoft-bing-ai-prometheus-ve-chatgpt/)
 <!-- BLOG-POST-LIST:END -->
 
 
