@@ -11,11 +11,11 @@ Cloudflare Pages. Test. Volkan. https://volkan.pages.dev/
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Daha uzun uyumak ister misin? Arnavutluk’a taşın](https://wolkanca.com/daha-uzun-uyumak-ister-misin-arnavutluka-tasin/)
 - [Microsoft Telefon uygulamasına iPhone’u ekledi](https://wolkanca.com/microsoft-telefon-uygulamasina-iphoneu-ekledi/)
 - [Chrome tarayıcıda şifreleri görmek](https://wolkanca.com/chrome-tarayicida-sifreleri-gormek/)
 - [Google site taşıma belgeleri güncellendi](https://wolkanca.com/google-site-tasima-belgeleri-guncellendi/)
 - [Google Workspace tasarımı değişiyor](https://wolkanca.com/google-workspace-tasarimi-degisiyor/)
-- [Yüzüklerin Efendisi film serisine devam](https://wolkanca.com/yuzuklerin-efendisi-film-serisine-devam/)
 <!-- BLOG-POST-LIST:END -->
 
 
