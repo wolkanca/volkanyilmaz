@@ -11,11 +11,11 @@ Cloudflare Pages. Test. Volkan. https://volkan.pages.dev/
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Twitter Blue Türkiye’de açıldı](https://wolkanca.com/twitter-blue-turkiyede-acildi/)
 - [Google One VPN hizmeti herkese açık](https://wolkanca.com/google-one-vpn-hizmeti-herkese-acik/)
 - [WhatsApp’da bilinmeyen numaraları sessize almak mümkün oluyor](https://wolkanca.com/whatsappda-bilinmeyen-numaralari-sessize-almak-mumkun-oluyor/)
 - [Google Arama 2 yıl içinde bitebilir](https://wolkanca.com/google-arama-2-yil-icinde-bitebilir/)
 - [Tamir edilebilir Nokia G22](https://wolkanca.com/tamir-edilebilir-nokia-g22/)
-- [Sansür sonrası Ekşi Sözlük’ün trafiği](https://wolkanca.com/sansur-sonrasi-eksi-sozlukun-trafigi/)
 <!-- BLOG-POST-LIST:END -->
 
 
