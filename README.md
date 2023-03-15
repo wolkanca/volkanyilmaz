@@ -11,11 +11,11 @@ Cloudflare Pages. Test. Volkan. https://volkan.pages.dev/
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Last of Us izlenme sayısı](https://wolkanca.com/the-last-of-us-izlenme-sayisi/)
 - [GPT-4 duyuruldu](https://wolkanca.com/gpt-4-duyuruldu/)
 - [MyHeritage Deep Nostalgia](https://wolkanca.com/myheritage-deep-nostalgia/)
 - [Google: ‘Bard arama değildir’](https://wolkanca.com/google-bard-arama-degildir/)
 - [Apple’ın bilim kurgu dizisi Silo](https://wolkanca.com/applein-bilim-kurgu-dizisi-silo/)
-- [Sosyal medya uygulamaları görsel boyutları](https://wolkanca.com/sosyal-medya-uygulamalari-gorsel-boyutlari/)
 <!-- BLOG-POST-LIST:END -->
 
 
