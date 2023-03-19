@@ -11,11 +11,11 @@ Cloudflare Pages. Test. Volkan. https://volkan.pages.dev/
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [DC Evreni’nin en iyi filmleri](https://wolkanca.com/dc-evreninin-en-iyi-filmleri/)
 - [Amazon uydu internet cihazlarını tanıttı](https://wolkanca.com/amazon-uydu-internet-cihazlarini-tanitti/)
 - [Meta ücretli onay işareti başladı](https://wolkanca.com/meta-ucretli-onay-isareti-basladi/)
 - [GPT-4’lü Bing yayında](https://wolkanca.com/gpt-4lu-bing-yayinda/)
 - [The Last of Us izlenme sayısı](https://wolkanca.com/the-last-of-us-izlenme-sayisi/)
-- [GPT-4 duyuruldu](https://wolkanca.com/gpt-4-duyuruldu/)
 <!-- BLOG-POST-LIST:END -->
 
 
