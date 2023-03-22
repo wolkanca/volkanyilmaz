@@ -11,11 +11,11 @@ Cloudflare Pages. Test. Volkan. https://volkan.pages.dev/
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [İnternette gördüklerinizin kontrolünü nasıl geri alırsınız?](https://wolkanca.com/internette-gorduklerinizin-kontrolunu-nasil-geri-alirsiniz/)
 - [WhatsApp mesaj sabitleme](https://wolkanca.com/whatsapp-mesaj-sabitleme/)
 - [Elon Musk belgeseli çekiliyor](https://wolkanca.com/elon-musk-belgeseli-cekiliyor/)
 - [DC Evreni’nin en iyi filmleri](https://wolkanca.com/dc-evreninin-en-iyi-filmleri/)
 - [Amazon uydu internet cihazlarını tanıttı](https://wolkanca.com/amazon-uydu-internet-cihazlarini-tanitti/)
-- [Meta ücretli onay işareti başladı](https://wolkanca.com/meta-ucretli-onay-isareti-basladi/)
 <!-- BLOG-POST-LIST:END -->
 
 
