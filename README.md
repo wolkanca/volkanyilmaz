@@ -13,9 +13,9 @@ Cloudflare Pages. Test. Volkan. https://volkan.pages.dev/
 <!-- BLOG-POST-LIST:START -->
 - [İnternette gördüklerinizin kontrolünü nasıl geri alırsınız?](https://wolkanca.com/internette-gorduklerinizin-kontrolunu-nasil-geri-alirsiniz/)
 - [WhatsApp mesaj sabitleme](https://wolkanca.com/whatsapp-mesaj-sabitleme/)
+- [Dünya Su Günü](https://wolkanca.com/dunya-su-gunu/)
 - [Elon Musk belgeseli çekiliyor](https://wolkanca.com/elon-musk-belgeseli-cekiliyor/)
 - [DC Evreni’nin en iyi filmleri](https://wolkanca.com/dc-evreninin-en-iyi-filmleri/)
-- [Amazon uydu internet cihazlarını tanıttı](https://wolkanca.com/amazon-uydu-internet-cihazlarini-tanitti/)
 <!-- BLOG-POST-LIST:END -->
 
 
