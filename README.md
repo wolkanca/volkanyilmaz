@@ -11,11 +11,11 @@ Cloudflare Pages. Test. Volkan. https://volkan.pages.dev/
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Google Arama’da bilgileri doğrulamak için yeni özellikler](https://wolkanca.com/google-aramada-bilgileri-dogrulamak-icin-yeni-ozellikler/)
 - [Dünya mutluluk haritası 2023](https://wolkanca.com/dunya-mutluluk-haritasi-2023/)
 - [Renfield, Nicolas Cage Dracula rolünde](https://wolkanca.com/renfield-nicolas-cage-dracula-rolunde/)
 - [Document.designMode](https://wolkanca.com/document-designmode/)
 - [DALL·E, Bing’e entegre edildi](https://wolkanca.com/dall-e-binge-entegre-edildi/)
-- [İnternette gördüklerinizin kontrolünü nasıl geri alırsınız?](https://wolkanca.com/internette-gorduklerinizin-kontrolunu-nasil-geri-alirsiniz/)
 <!-- BLOG-POST-LIST:END -->
 
 
