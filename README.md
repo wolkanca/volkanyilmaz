@@ -11,11 +11,11 @@ Cloudflare Pages. Test. Volkan. https://volkan.pages.dev/
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [iOS 17 alacak cihazlar](https://wolkanca.com/ios-17-alacak-cihazlar/)
+- [Bir Zamanlar Gelecek: 2121](https://wolkanca.com/bir-zamanlar-gelecek-2121/)
 - [Farklı evrenleri sevenler için bilim kurgu filmleri](https://wolkanca.com/farkli-evrenleri-sevenler-icin-bilim-kurgu-filmleri/)
 - [Windows’da sürücü simgesini değiştirmek](https://wolkanca.com/windowsda-surucu-simgesini-degistirmek/)
 - [Dünyanın en varlıklı şehirleri](https://wolkanca.com/dunyanin-en-varlikli-sehirleri/)
-- [Up &lpar;Yukarı Bak&rpar; devam filmi 16 Haziran’da](https://wolkanca.com/up-yukari-bak-devam-filmi-16-haziranda/)
-- [İş hayatında 22 görgü kuralı](https://wolkanca.com/is-hayatinda-22-gorgu-kurali/)
 <!-- BLOG-POST-LIST:END -->
 
 
