@@ -11,11 +11,11 @@ Cloudflare Pages. Test. Volkan. https://volkan.pages.dev/
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Yapay Zekâ ve SEO](https://wolkanca.com/yapay-zeka-ve-seo/)
 - [Yeni süpersonik, yıldız yumurtlayan kara delik](https://wolkanca.com/yeni-supersonik-yildiz-yumurtlayan-kara-delik/)
 - [Dünyanın en zengin 25 ülkesi](https://wolkanca.com/dunyanin-en-zengin-25-ulkesi/)
 - [iOS 17 alacak cihazlar](https://wolkanca.com/ios-17-alacak-cihazlar/)
 - [Bir Zamanlar Gelecek: 2121](https://wolkanca.com/bir-zamanlar-gelecek-2121/)
-- [Farklı evrenleri sevenler için bilim kurgu filmleri](https://wolkanca.com/farkli-evrenleri-sevenler-icin-bilim-kurgu-filmleri/)
 <!-- BLOG-POST-LIST:END -->
 
 
