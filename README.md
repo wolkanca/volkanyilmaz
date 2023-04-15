@@ -11,11 +11,11 @@ Cloudflare Pages. Test. Volkan. https://volkan.pages.dev/
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [WordPress dashboard kontrolü](https://wolkanca.com/wordpress-dashboard-kontrolu/)
 - [Twitter Blue karakter limiti ve Bold İtalik](https://wolkanca.com/twitter-blue-karakter-limiti-ve-bold-italik/)
 - [The Continental Eylül’de](https://wolkanca.com/the-continental-eylulde/)
 - [Opera iOS ücretsiz VPN](https://wolkanca.com/opera-ios-ucretsiz-vpn/)
 - [ChatGPT’li insansı robot Ameca](https://wolkanca.com/chatgptli-insansi-robot-ameca/)
-- [Microsoft Edge Image Creator aracı](https://wolkanca.com/microsoft-edge-image-creator-araci/)
 <!-- BLOG-POST-LIST:END -->
 
 
