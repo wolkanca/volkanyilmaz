@@ -11,11 +11,11 @@ Cloudflare Pages. Test. Volkan. https://volkan.pages.dev/
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [WP Reset WordPress eklentisi](https://wolkanca.com/wp-reset-wordpress-eklentisi/)
 - [Google Takvim dark-mode](https://wolkanca.com/google-takvim-dark-mode/)
 - [WordPress dashboard kontrolü](https://wolkanca.com/wordpress-dashboard-kontrolu/)
 - [Twitter Blue karakter limiti ve Bold İtalik](https://wolkanca.com/twitter-blue-karakter-limiti-ve-bold-italik/)
 - [The Continental Eylül’de](https://wolkanca.com/the-continental-eylulde/)
-- [Opera iOS ücretsiz VPN](https://wolkanca.com/opera-ios-ucretsiz-vpn/)
 <!-- BLOG-POST-LIST:END -->
 
 
