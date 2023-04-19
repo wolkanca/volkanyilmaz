@@ -11,11 +11,11 @@ Cloudflare Pages. Test. Volkan. https://volkan.pages.dev/
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Instagram profiline birden fazla link](https://wolkanca.com/instagram-profiline-birden-fazla-link/)
 - [Antipod haritası](https://wolkanca.com/antipod-haritasi/)
 - [WP Reset WordPress eklentisi](https://wolkanca.com/wp-reset-wordpress-eklentisi/)
 - [Google Takvim dark-mode](https://wolkanca.com/google-takvim-dark-mode/)
 - [WordPress dashboard kontrolü](https://wolkanca.com/wordpress-dashboard-kontrolu/)
-- [Twitter Blue karakter limiti ve Bold İtalik](https://wolkanca.com/twitter-blue-karakter-limiti-ve-bold-italik/)
 <!-- BLOG-POST-LIST:END -->
 
 
