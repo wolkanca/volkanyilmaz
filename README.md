@@ -11,11 +11,11 @@ Cloudflare Pages. Test. Volkan. https://volkan.pages.dev/
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Amazon Prime ücretine yüzde 400 zam!](https://wolkanca.com/amazon-prime-ucretine-yuzde-400-zam/)
 - [En iyi Türk korku filmleri](https://wolkanca.com/en-iyi-turk-korku-filmleri/)
 - [23 Nisan 2023](https://wolkanca.com/23-nisan-2023/)
 - [En iyi dinî filmler](https://wolkanca.com/en-iyi-dini-filmler/)
 - [Bluesky Android’e geldi](https://wolkanca.com/bluesky-androide-geldi/)
-- [Instagram profiline birden fazla link](https://wolkanca.com/instagram-profiline-birden-fazla-link/)
 <!-- BLOG-POST-LIST:END -->
 
 
