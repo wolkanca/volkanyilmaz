@@ -11,11 +11,11 @@ Cloudflare Pages. Test. Volkan. https://volkan.pages.dev/
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [WiFi şifresi öğrenme](https://wolkanca.com/wifi-sifresi-ogrenme/)
 - [WhatsApp transkript özelliği](https://wolkanca.com/whatsapp-transkript-ozelligi/)
 - [Black Mirror 6. sezon](https://wolkanca.com/black-mirror-6-sezon/)
 - [Microsoft Designer Edge’e entegre edildi](https://wolkanca.com/microsoft-designer-edgee-entegre-edildi/)
 - [En iyi kıyamet filmleri](https://wolkanca.com/en-iyi-kiyamet-filmleri/)
-- [İnternet Kampanyalarında Nelere Dikkat Edilmeli?](https://wolkanca.com/internet-kampanyalarinda-nelere-dikkat-edilmeli/)
 <!-- BLOG-POST-LIST:END -->
 
 
