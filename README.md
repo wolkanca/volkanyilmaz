@@ -11,11 +11,11 @@ Cloudflare Pages. Test. Volkan. https://volkan.pages.dev/
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [TRT’nin dijital platformu tabii.com](https://wolkanca.com/trtnin-dijital-platformu-tabii-com/)
 - [Gmail doğrulanmış e-posta adresleri](https://wolkanca.com/gmail-dogrulanmis-e-posta-adresleri/)
 - [Google Domains’de yeni alan adları](https://wolkanca.com/google-domainsde-yeni-alan-adlari/)
 - [Apple Arcade yeni oyunlar](https://wolkanca.com/apple-arcade-yeni-oyunlar/)
 - [Dune: Part 2 fragmanı](https://wolkanca.com/dune-part-2-fragmani/)
-- [Haber robotlarının  yükselişi](https://wolkanca.com/haber-robotlarinin-yukselisi/)
 <!-- BLOG-POST-LIST:END -->
 
 
