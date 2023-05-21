@@ -11,11 +11,11 @@ Cloudflare Pages. Test. Volkan. https://volkan.pages.dev/
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [WordPress kategorilere görsel eklemek](https://wolkanca.com/wordpress-kategorilere-gorsel-eklemek/)
 - [WordPress tag count ve post count](https://wolkanca.com/wordpress-tag-count-ve-post-count/)
 - [ChatGPT resmi iOS uygulaması](https://wolkanca.com/chatgpt-resmi-ios-uygulamasi/)
 - [19 Mayıs reklam filmleri](https://wolkanca.com/19-mayis-reklam-filmleri/)
 - [Pasif Google hesapları](https://wolkanca.com/pasif-google-hesaplari/)
-- [WooCommerce: Öne çıkan ürünlere göre filtreleme](https://wolkanca.com/woocommerce-one-cikan-urunlere-gore-filtreleme/)
 <!-- BLOG-POST-LIST:END -->
 
 
