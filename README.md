@@ -11,11 +11,11 @@ Cloudflare Pages. Test. Volkan. https://volkan.pages.dev/
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Bill Gates’in yakın gelecek öngörüleri](https://wolkanca.com/bill-gatesin-yakin-gelecek-ongoruleri/)
 - [Instagram, Twitter’a rakip oluyor](https://wolkanca.com/instagram-twittera-rakip-oluyor/)
 - [WordPress kategorilere görsel eklemek](https://wolkanca.com/wordpress-kategorilere-gorsel-eklemek/)
 - [WordPress tag count ve post count](https://wolkanca.com/wordpress-tag-count-ve-post-count/)
 - [ChatGPT resmi iOS uygulaması](https://wolkanca.com/chatgpt-resmi-ios-uygulamasi/)
-- [19 Mayıs reklam filmleri](https://wolkanca.com/19-mayis-reklam-filmleri/)
 <!-- BLOG-POST-LIST:END -->
 
 
