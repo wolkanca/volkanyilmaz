@@ -11,11 +11,11 @@ Cloudflare Pages. Test. Volkan. https://volkan.pages.dev/
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [WhatsApp ekran paylaşımı](https://wolkanca.com/whatsapp-ekran-paylasimi/)
 - [Youtube Hikayeler kapanıyor](https://wolkanca.com/youtube-hikayeler-kapaniyor/)
 - [Windows “Acil Yeniden Başlatma”](https://wolkanca.com/windows-acil-yeniden-baslatma/)
 - [WhatsApp kullanıcı adları](https://wolkanca.com/whatsapp-kullanici-adlari/)
 - [Bill Gates’in yakın gelecek öngörüleri](https://wolkanca.com/bill-gatesin-yakin-gelecek-ongoruleri/)
-- [Instagram, Twitter’a rakip oluyor](https://wolkanca.com/instagram-twittera-rakip-oluyor/)
 <!-- BLOG-POST-LIST:END -->
 
 
