@@ -11,11 +11,11 @@ Cloudflare Pages. Test. Volkan. https://volkan.pages.dev/
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Her WordPress sitesinde olması gereken eklentiler](https://wolkanca.com/her-wordpress-sitesinde-olmasi-gereken-eklentiler/)
 - [Bilgisayarda görünmez klasör oluşturmak](https://wolkanca.com/bilgisayarda-gorunmez-klasor-olusturmak/)
 - [WhatsApp ekran paylaşımı](https://wolkanca.com/whatsapp-ekran-paylasimi/)
 - [Youtube Hikayeler kapanıyor](https://wolkanca.com/youtube-hikayeler-kapaniyor/)
 - [Windows “Acil Yeniden Başlatma”](https://wolkanca.com/windows-acil-yeniden-baslatma/)
-- [WhatsApp kullanıcı adları](https://wolkanca.com/whatsapp-kullanici-adlari/)
 <!-- BLOG-POST-LIST:END -->
 
 
