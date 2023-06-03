@@ -11,11 +11,11 @@ Cloudflare Pages. Test. Volkan. https://volkan.pages.dev/
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Chrome 115 yenilikler](https://wolkanca.com/chrome-115-yenilikler/)
 - [Microsoft PC Yöneticisi](https://wolkanca.com/microsoft-pc-yoneticisi/)
 - [NASA UFO görüntülerini paylaştı](https://wolkanca.com/nasa-ufo-goruntulerini-paylasti/)
 - [ChatGPT iOS uygulaması Türkiye’ye açıldı](https://wolkanca.com/chatgpt-ios-uygulamasi-turkiyeye-acildi/)
 - [Dünyanın en eski insan ayak izi bulundu](https://wolkanca.com/dunyanin-en-eski-insan-ayak-izi-bulundu/)
-- [Her WordPress sitesinde olması gereken eklentiler](https://wolkanca.com/her-wordpress-sitesinde-olmasi-gereken-eklentiler/)
 <!-- BLOG-POST-LIST:END -->
 
 
