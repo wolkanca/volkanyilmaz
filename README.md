@@ -11,11 +11,11 @@ Cloudflare Pages. Test. Volkan. https://volkan.pages.dev/
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Transformers: Canavarların Yükselişi](https://wolkanca.com/transformers-canavarlarin-yukselisi/)
 - [2023 Apple Tasarım Ödülleri](https://wolkanca.com/2023-apple-tasarim-odulleri/)
 - [Photoshop Generative Fill](https://wolkanca.com/photoshop-generative-fill/)
 - [WhatsApp mesaj düzenleme](https://wolkanca.com/whatsapp-mesaj-duzenleme/)
 - [Gmail’e yapay zeka desteği](https://wolkanca.com/gmaile-yapay-zeka-destegi/)
-- [Getir, n11’i satın aldı](https://wolkanca.com/getir-n11i-satin-aldi/)
 <!-- BLOG-POST-LIST:END -->
 
 
