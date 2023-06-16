@@ -11,11 +11,11 @@ Cloudflare Pages. Test. Volkan. https://volkan.pages.dev/
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Yeni Forza Motorsport görüntüleri](https://wolkanca.com/yeni-forza-motorsport-goruntuleri/)
 - [AB Yapay zeka yasası](https://wolkanca.com/ab-yapay-zeka-yasasi/)
 - [12 haziran 2023 Reddit protestoları](https://wolkanca.com/12-haziran-2023-reddit-protestolari/)
 - [Windows 11 yeni Dosya Gezgini ve RGB kontrolü](https://wolkanca.com/windows-11-yeni-dosya-gezgini-ve-rgb-kontrolu/)
 - [The Space Solar Power Project](https://wolkanca.com/the-space-solar-power-project/)
-- [AI Otomobil markalarını nasıl algılamış](https://wolkanca.com/ai-otomobil-markalarini-nasil-algilamis/)
 <!-- BLOG-POST-LIST:END -->
 
 
