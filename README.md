@@ -11,11 +11,11 @@ Cloudflare Pages. Test. Volkan. https://volkan.pages.dev/
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Yapay zekâ ile Windows etkinleştirme kodu](https://wolkanca.com/yapay-zeka-ile-windows-etkinlestirme-kodu/)
 - [Yapay Zeka Aramalarındaki Hızlı Artış: Türkiye’de Öne Çıkanlar](https://wolkanca.com/yapay-zeka-aramalarindaki-hizli-artis-turkiyede-one-cikanlar/)
 - [Microsoft Teams Windows 11’den kaldırılıyor](https://wolkanca.com/microsoft-teams-windows-11den-kaldiriliyor/)
 - [Google Domains kapanıyor](https://wolkanca.com/google-domains-kapaniyor/)
 - [Filmden oyuna](https://wolkanca.com/filmden-oyuna/)
-- [Yeni Forza Motorsport görüntüleri](https://wolkanca.com/yeni-forza-motorsport-goruntuleri/)
 <!-- BLOG-POST-LIST:END -->
 
 
