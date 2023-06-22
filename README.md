@@ -11,11 +11,11 @@ Cloudflare Pages. Test. Volkan. https://volkan.pages.dev/
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Jetpack Photon devre dışı bırakmak](https://wolkanca.com/jetpack-photon-devre-disi-birakmak/)
 - [VotTak uygulaması](https://wolkanca.com/vottak-uygulamasi/)
 - [iOS için Google Chrome’a gelen yenilikler](https://wolkanca.com/ios-icin-google-chromea-gelen-yenilikler/)
 - [Yapay zekâ ile Windows etkinleştirme kodu](https://wolkanca.com/yapay-zeka-ile-windows-etkinlestirme-kodu/)
 - [Yapay Zeka Aramalarındaki Hızlı Artış: Türkiye’de Öne Çıkanlar](https://wolkanca.com/yapay-zeka-aramalarindaki-hizli-artis-turkiyede-one-cikanlar/)
-- [Microsoft Teams Windows 11’den kaldırılıyor](https://wolkanca.com/microsoft-teams-windows-11den-kaldiriliyor/)
 <!-- BLOG-POST-LIST:END -->
 
 
