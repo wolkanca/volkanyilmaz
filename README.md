@@ -11,11 +11,11 @@ Cloudflare Pages. Test. Volkan. https://volkan.pages.dev/
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [FlexClip, yapay zekalı online video üretimi](https://wolkanca.com/flexclip-yapay-zekali-online-video-uretimi/)
 - [En iyi Süpermen filmleri](https://wolkanca.com/en-iyi-supermen-filmleri/)
 - [YouTube için yapay zeka destekli dublaj özelliği](https://wolkanca.com/youtube-icin-yapay-zeka-destekli-dublaj-ozelligi/)
 - [Dropbox Dash](https://wolkanca.com/dropbox-dash/)
 - [Jetpack Photon devre dışı bırakmak](https://wolkanca.com/jetpack-photon-devre-disi-birakmak/)
-- [VotTak uygulaması](https://wolkanca.com/vottak-uygulamasi/)
 <!-- BLOG-POST-LIST:END -->
 
 
