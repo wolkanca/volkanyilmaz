@@ -11,11 +11,11 @@ Cloudflare Pages. Test. Volkan. https://volkan.pages.dev/
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Apple dizinin ilk bölümünü Twitter’da yayınladı](https://wolkanca.com/apple-dizinin-ilk-bolumunu-twitterda-yayinladi/)
 - [Yapay zeka ses klonlama aracı](https://wolkanca.com/yapay-zeka-ses-klonlama-araci/)
 - [FlexClip, yapay zekalı online video üretimi](https://wolkanca.com/flexclip-yapay-zekali-online-video-uretimi/)
 - [En iyi Süpermen filmleri](https://wolkanca.com/en-iyi-supermen-filmleri/)
 - [YouTube için yapay zeka destekli dublaj özelliği](https://wolkanca.com/youtube-icin-yapay-zeka-destekli-dublaj-ozelligi/)
-- [Dropbox Dash](https://wolkanca.com/dropbox-dash/)
 <!-- BLOG-POST-LIST:END -->
 
 
