@@ -11,11 +11,11 @@ Cloudflare Pages. Test. Volkan. https://volkan.pages.dev/
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [DevTools Tips](https://wolkanca.com/devtools-tips/)
 - [Threads açıldı](https://wolkanca.com/threads-acildi/)
 - [iPhone 15 serisi batarya kapasiteleri](https://wolkanca.com/iphone-15-serisi-batarya-kapasiteleri/)
 - [Reuters Institute Digital News Report 2023](https://wolkanca.com/reuters-institute-digital-news-report-2023/)
 - [WordPress çıkışta temizle](https://wolkanca.com/wordpress-cikista-temizle/)
-- [10 çığır açan teknoloji 2023](https://wolkanca.com/10-cigir-acan-teknoloji-2023/)
 <!-- BLOG-POST-LIST:END -->
 
 
