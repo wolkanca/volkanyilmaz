@@ -11,11 +11,11 @@ Cloudflare Pages. Test. Volkan. https://volkan.pages.dev/
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [UA ile GA4 arasındaki temel farklar](https://wolkanca.com/ua-ile-ga4-arasindaki-temel-farklar/)
 - [Buharlı motosiklet](https://wolkanca.com/buharli-motosiklet/)
 - [Bekarlık vergisi](https://wolkanca.com/bekarlik-vergisi/)
 - [DevTools Tips](https://wolkanca.com/devtools-tips/)
 - [Threads açıldı](https://wolkanca.com/threads-acildi/)
-- [iPhone 15 serisi batarya kapasiteleri](https://wolkanca.com/iphone-15-serisi-batarya-kapasiteleri/)
 <!-- BLOG-POST-LIST:END -->
 
 
