@@ -11,11 +11,11 @@ Cloudflare Pages. Test. Volkan. https://volkan.pages.dev/
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Google Bard Türkçe oldu](https://wolkanca.com/google-bard-turkce-oldu/)
 - [Ahsoka 23 Ağustos’ta](https://wolkanca.com/ahsoka-23-agustosta/)
 - [ChatGPT’nin trafiği ilk kez düştü!](https://wolkanca.com/chatgptnin-trafigi-ilk-kez-dustu/)
 - [UA ile GA4 arasındaki temel farklar](https://wolkanca.com/ua-ile-ga4-arasindaki-temel-farklar/)
 - [Buharlı motosiklet](https://wolkanca.com/buharli-motosiklet/)
-- [Bekarlık vergisi](https://wolkanca.com/bekarlik-vergisi/)
 <!-- BLOG-POST-LIST:END -->
 
 
