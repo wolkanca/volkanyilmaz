@@ -11,11 +11,11 @@ Cloudflare Pages. Test. Volkan. https://volkan.pages.dev/
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Twitter DM ayarları değiştirildi, kontrol edin](https://wolkanca.com/twitter-dm-ayarlari-degistirildi-kontrol-edin/)
 - [Windows 11’de formata gerek kalmayacak](https://wolkanca.com/windows-11de-formata-gerek-kalmayacak/)
 - [2023/2024 yeni emojiler](https://wolkanca.com/2023-2024-yeni-emojiler/)
 - [Google Bard Türkçe oldu](https://wolkanca.com/google-bard-turkce-oldu/)
 - [Ahsoka 23 Ağustos’ta](https://wolkanca.com/ahsoka-23-agustosta/)
-- [ChatGPT’nin trafiği ilk kez düştü!](https://wolkanca.com/chatgptnin-trafigi-ilk-kez-dustu/)
 <!-- BLOG-POST-LIST:END -->
 
 
