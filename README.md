@@ -11,11 +11,11 @@ Cloudflare Pages. Test. Volkan. https://volkan.pages.dev/
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Evliya Çelebi’nin Seyahatnâme Google haritalarda](https://wolkanca.com/evliya-celebinin-seyahatname-google-haritalarda/)
 - [Twitter, X olarak yeniden adlandırıldı](https://wolkanca.com/twitter-x-olarak-yeniden-adlandirildi/)
 - [Windows 11’de Dosya Gezgini yeniden başlatma](https://wolkanca.com/windows-11de-dosya-gezgini-yeniden-baslatma/)
 - [Edge EPUB dosyalarını açabiliyor](https://wolkanca.com/edge-epub-dosyalarini-acabiliyor/)
 - [Twitter Hiring iş arama özelliği](https://wolkanca.com/twitter-hiring-is-arama-ozelligi/)
-- [Ölümlü Dünya 2](https://wolkanca.com/olumlu-dunya-2/)
 <!-- BLOG-POST-LIST:END -->
 
 
