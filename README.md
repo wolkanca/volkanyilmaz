@@ -11,11 +11,11 @@ Cloudflare Pages. Test. Volkan. https://volkan.pages.dev/
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Youtube video ID almak JS](https://wolkanca.com/youtube-video-id-almak-js/)
 - [JS ile görsellere alt etiketi eklemek](https://wolkanca.com/js-ile-gorsellere-alt-etiketi-eklemek/)
 - [TikTok metin yayınlama başlıyor](https://wolkanca.com/tiktok-metin-yayinlama-basliyor/)
 - [Control Panel for Twitter uzantısı](https://wolkanca.com/control-panel-for-twitter-uzantisi/)
 - [Evliya Çelebi’nin Seyahatnâme Google haritalarda](https://wolkanca.com/evliya-celebinin-seyahatname-google-haritalarda/)
-- [Twitter, X olarak yeniden adlandırıldı](https://wolkanca.com/twitter-x-olarak-yeniden-adlandirildi/)
 <!-- BLOG-POST-LIST:END -->
 
 
