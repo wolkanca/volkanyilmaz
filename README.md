@@ -11,11 +11,11 @@ Cloudflare Pages. Test. Volkan. https://volkan.pages.dev/
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Disney+ Atatürk dizisi](https://wolkanca.com/disney-ataturk-dizisi/)
 - [Loki 2. sezon](https://wolkanca.com/loki-2-sezon/)
 - [Voyager 2 ile iletişim kesildi](https://wolkanca.com/voyager-2-ile-iletisim-kesildi/)
 - [TikTok online pazar yerini açıyor](https://wolkanca.com/tiktok-online-pazar-yerini-aciyor/)
 - [Youtube video ID almak JS](https://wolkanca.com/youtube-video-id-almak-js/)
-- [JS ile görsellere alt etiketi eklemek](https://wolkanca.com/js-ile-gorsellere-alt-etiketi-eklemek/)
 <!-- BLOG-POST-LIST:END -->
 
 
