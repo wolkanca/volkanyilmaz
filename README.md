@@ -11,11 +11,11 @@ Cloudflare Pages. Test. Volkan. https://volkan.pages.dev/
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Disney Plus abonelik iptali ve para iadesi](https://wolkanca.com/disney-plus-abonelik-iptali-ve-para-iadesi/)
 - [Öklid teleskobu ilk fotoğraflarını gönderdi](https://wolkanca.com/oklid-teleskobu-ilk-fotograflarini-gonderdi/)
 - [Google Domains’den WordPress.com’a transfer](https://wolkanca.com/google-domainsden-wordpress-coma-transfer/)
 - [Disney+ Atatürk dizisi](https://wolkanca.com/disney-ataturk-dizisi/)
 - [Loki 2. sezon](https://wolkanca.com/loki-2-sezon/)
-- [Voyager 2 ile iletişim kesildi](https://wolkanca.com/voyager-2-ile-iletisim-kesildi/)
 <!-- BLOG-POST-LIST:END -->
 
 
