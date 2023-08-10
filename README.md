@@ -11,11 +11,11 @@ Cloudflare Pages. Test. Volkan. https://volkan.pages.dev/
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Türkiye Süper Lig 2023/2024 araştırması](https://wolkanca.com/turkiye-super-lig-2023-2024-arastirmasi/)
 - [Elon Musk vs. Mark Zuckerberg kafes dövüşü](https://wolkanca.com/elon-musk-vs-mark-zuckerberg-kafes-dovusu/)
 - [Enpara banka oldu](https://wolkanca.com/enpara-banka-oldu/)
 - [Erkin Koray](https://wolkanca.com/erkin-koray/)
 - [WhatsApp bilinmeyen numaraları engellemek](https://wolkanca.com/whatsapp-bilinmeyen-numaralari-engellemek/)
-- [Disney Plus abonelik iptali ve para iadesi](https://wolkanca.com/disney-plus-abonelik-iptali-ve-para-iadesi/)
 <!-- BLOG-POST-LIST:END -->
 
 
