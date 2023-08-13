@@ -11,11 +11,11 @@ Cloudflare Pages. Test. Volkan. https://volkan.pages.dev/
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Nüzhet Gökdoğan](https://wolkanca.com/nuzhet-gokdogan/)
 - [Ekoanksiyete](https://wolkanca.com/ekoanksiyete/)
 - [Call of Duty: Modern Warfare 3 fragmanı](https://wolkanca.com/call-of-duty-modern-warfare-3-fragmani/)
 - [Google E-Tablolarda yenilenen değerleri bulmak](https://wolkanca.com/google-e-tablolarda-yenilenen-degerleri-bulmak/)
 - [Türkiye Süper Lig 2023/2024 araştırması](https://wolkanca.com/turkiye-super-lig-2023-2024-arastirmasi/)
-- [Elon Musk vs. Mark Zuckerberg kafes dövüşü](https://wolkanca.com/elon-musk-vs-mark-zuckerberg-kafes-dovusu/)
 <!-- BLOG-POST-LIST:END -->
 
 
