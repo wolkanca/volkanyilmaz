@@ -11,11 +11,11 @@ Cloudflare Pages. Test. Volkan. https://volkan.pages.dev/
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [#17Agustos1999 #DepremiUnutmaUnutturma](https://wolkanca.com/17agustos1999-depremiunutmaunutturma/)
 - [Windows 11 Copilot](https://wolkanca.com/windows-11-copilot/)
 - [Google Chrome yan panel aramayı kapatmak](https://wolkanca.com/google-chrome-yan-panel-aramayi-kapatmak/)
 - [Nüzhet Gökdoğan](https://wolkanca.com/nuzhet-gokdogan/)
 - [Ekoanksiyete](https://wolkanca.com/ekoanksiyete/)
-- [Call of Duty: Modern Warfare 3 fragmanı](https://wolkanca.com/call-of-duty-modern-warfare-3-fragmani/)
 <!-- BLOG-POST-LIST:END -->
 
 
