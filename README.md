@@ -11,11 +11,11 @@ Cloudflare Pages. Test. Volkan. https://volkan.pages.dev/
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Barbie filmi ABD’de rekor kırdı](https://wolkanca.com/barbie-filmi-abdde-rekor-kirdi/)
 - [WhatsApp yüksek kalite fotoğraf gönderme başladı](https://wolkanca.com/whatsapp-yuksek-kalite-fotograf-gonderme-basladi/)
 - [#17Agustos1999 #DepremiUnutmaUnutturma](https://wolkanca.com/17agustos1999-depremiunutmaunutturma/)
 - [Windows 11 Copilot](https://wolkanca.com/windows-11-copilot/)
 - [Google Chrome yan panel aramayı kapatmak](https://wolkanca.com/google-chrome-yan-panel-aramayi-kapatmak/)
-- [Nüzhet Gökdoğan](https://wolkanca.com/nuzhet-gokdogan/)
 <!-- BLOG-POST-LIST:END -->
 
 
