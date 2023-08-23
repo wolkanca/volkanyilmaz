@@ -11,11 +11,11 @@ Cloudflare Pages. Test. Volkan. https://volkan.pages.dev/
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Twitch “Discovery Feed”](https://wolkanca.com/twitch-discovery-feed/)
 - [Akıllı priz deneyimim](https://wolkanca.com/akilli-priz-deneyimim/)
 - [Threads web sürümü geliyor](https://wolkanca.com/threads-web-surumu-geliyor/)
 - [Microsoft Paint dark mode](https://wolkanca.com/microsoft-paint-dark-mode/)
 - [Film yapımı hakkında filmler](https://wolkanca.com/film-yapimi-hakkinda-filmler/)
-- [Barbie filmi ABD’de rekor kırdı](https://wolkanca.com/barbie-filmi-abdde-rekor-kirdi/)
 <!-- BLOG-POST-LIST:END -->
 
 
