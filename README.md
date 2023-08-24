@@ -11,11 +11,11 @@ Cloudflare Pages. Test. Volkan. https://volkan.pages.dev/
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Corsair ayakta çalışma masası](https://wolkanca.com/corsair-ayakta-calisma-masasi/)
 - [Google Fotoğraflar web sürümü yenilikler](https://wolkanca.com/google-fotograflar-web-surumu-yenilikler/)
 - [iPhone 15 USB-C kabloları](https://wolkanca.com/iphone-15-usb-c-kablolari/)
 - [Twitch “Discovery Feed”](https://wolkanca.com/twitch-discovery-feed/)
 - [Akıllı priz deneyimim](https://wolkanca.com/akilli-priz-deneyimim/)
-- [Threads web sürümü geliyor](https://wolkanca.com/threads-web-surumu-geliyor/)
 <!-- BLOG-POST-LIST:END -->
 
 
