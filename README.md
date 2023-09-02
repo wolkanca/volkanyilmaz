@@ -11,11 +11,11 @@ Cloudflare Pages. Test. Volkan. https://volkan.pages.dev/
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Google Chrome Video karesini kopyala](https://wolkanca.com/google-chrome/)
+- [En popüler biyografi filmleri](https://wolkanca.com/en-populer-biyografi-filmleri/)
+- [Google Arama uygunsuz görselleri bulanıklaştırıyor](https://wolkanca.com/google-arama-uygunsuz-gorselleri-bulaniklastiriyor/)
 - [YouTube Music yorumları açıldı](https://wolkanca.com/youtube-music-yorumlari-acildi/)
 - [AdSense boş reklam alanını gizlemek](https://wolkanca.com/adsense-bos-reklam-alanin-gizlemek/)
-- [Dünyanın son 1 milyar yılını 40 saniyede izle](https://wolkanca.com/dunyanin-son-1-milyar-yilini-40-saniyede-izle/)
-- [Atari 2600 geri döndü](https://wolkanca.com/atari-2600-geri-dondu/)
-- [Web sitesi hızı arama motoru optimizasyonunu &lpar;SEO&rpar; nasıl artırır?](https://wolkanca.com/web-sitesi-hizi-arama-motoru-optimizasyonunu-seo-nasil-artirir/)
 <!-- BLOG-POST-LIST:END -->
 
 
