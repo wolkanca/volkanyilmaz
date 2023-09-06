@@ -11,11 +11,11 @@ Cloudflare Pages. Test. Volkan. https://volkan.pages.dev/
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [WhatsApp HD video göndermek](https://wolkanca.com/whatsapp-hd-video-gondermek/)
 - [Telefonunuz kaç yıl daha güncelleme alacak?](https://wolkanca.com/telefonunuz-kac-yil-daha-guncelleme-alacak/)
 - [Google Chrome Video karesini kopyala](https://wolkanca.com/google-chrome/)
 - [En popüler biyografi filmleri](https://wolkanca.com/en-populer-biyografi-filmleri/)
 - [Google Arama uygunsuz görselleri bulanıklaştırıyor](https://wolkanca.com/google-arama-uygunsuz-gorselleri-bulaniklastiriyor/)
-- [YouTube Music yorumları açıldı](https://wolkanca.com/youtube-music-yorumlari-acildi/)
 <!-- BLOG-POST-LIST:END -->
 
 
