@@ -11,11 +11,11 @@ Cloudflare Pages. Test. Volkan. https://volkan.pages.dev/
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Google, yeni reklamıyla Apple ile dalga geçti](https://wolkanca.com/google-yeni-reklamiyla-apple-ile-dalga-gecti/)
 - [Starfield anlık 1 milyon oyuncu sayısını aştı](https://wolkanca.com/starfield-anlik-1-milyon-oyuncu-sayisini-asti/)
 - [WhatsApp HD video göndermek](https://wolkanca.com/whatsapp-hd-video-gondermek/)
 - [Telefonunuz kaç yıl daha güncelleme alacak?](https://wolkanca.com/telefonunuz-kac-yil-daha-guncelleme-alacak/)
 - [Google Chrome Video karesini kopyala](https://wolkanca.com/google-chrome/)
-- [En popüler biyografi filmleri](https://wolkanca.com/en-populer-biyografi-filmleri/)
 <!-- BLOG-POST-LIST:END -->
 
 
