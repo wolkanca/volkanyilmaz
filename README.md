@@ -11,11 +11,11 @@ Cloudflare Pages. Test. Volkan. https://volkan.pages.dev/
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Cem Yılmaz filmi Do Not Disturb fragmanı yayınlandı](https://wolkanca.com/cem-yilmaz-filmi-do-not-disturb-fragmani-yayinlandi/)
 - [Threads’da yenilikler](https://wolkanca.com/threadsda-yenilikler/)
 - [Daha sağlıklı batarya için](https://wolkanca.com/daha-saglikli-batarya-icin/)
 - [Yapı işleri için değişik fikirler](https://wolkanca.com/yapi-isleri-icin-degisik-fikirler/)
 - [Yüzüklerin Efendisi filmleri yeniden sinemalarda!](https://wolkanca.com/yuzuklerin-efendisi-filmleri-yeniden-sinemalarda/)
-- [WordPress üst kategori varsa](https://wolkanca.com/wordpress-ust-kategori-varsa/)
 <!-- BLOG-POST-LIST:END -->
 
 
