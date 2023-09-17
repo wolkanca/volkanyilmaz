@@ -11,11 +11,11 @@ Cloudflare Pages. Test. Volkan. https://volkan.pages.dev/
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Atatürk dizisi Netflix ve Amazon’da](https://wolkanca.com/ataturk-dizisi-netflix-ve-amazonda/)
 - [Cem Yılmaz filmi Do Not Disturb fragmanı yayınlandı](https://wolkanca.com/cem-yilmaz-filmi-do-not-disturb-fragmani-yayinlandi/)
 - [Threads’da yenilikler](https://wolkanca.com/threadsda-yenilikler/)
 - [Daha sağlıklı batarya için](https://wolkanca.com/daha-saglikli-batarya-icin/)
 - [Yapı işleri için değişik fikirler](https://wolkanca.com/yapi-isleri-icin-degisik-fikirler/)
-- [Yüzüklerin Efendisi filmleri yeniden sinemalarda!](https://wolkanca.com/yuzuklerin-efendisi-filmleri-yeniden-sinemalarda/)
 <!-- BLOG-POST-LIST:END -->
 
 
