@@ -11,11 +11,11 @@ Cloudflare Pages. Test. Volkan. https://volkan.pages.dev/
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Youtube “Premium Lite” kapatıldı](https://wolkanca.com/youtube-premium-lite-kapatildi/)
 - [.TR alan adları hakkında](https://wolkanca.com/tr-alan-adlari-hakkinda/)
 - [İyi kahve nasıl yapılır?](https://wolkanca.com/iyi-kahve-nasil-yapilir/)
 - [Google CSS içeriğinin indekslendiğini onayladı](https://wolkanca.com/google-css-iceriginin-indekslendigini-onayladi/)
 - [Kırık görsel linklerini değiştirmek](https://wolkanca.com/kirik-gorsel-linklerini-degistirmek/)
-- [Facebook logo ve rengi değiştirdi](https://wolkanca.com/facebook-logo-ve-rengi-degistirdi/)
 <!-- BLOG-POST-LIST:END -->
 
 
