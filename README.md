@@ -11,11 +11,11 @@ Cloudflare Pages. Test. Volkan. https://volkan.pages.dev/
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Adobe logo yapıcı](https://wolkanca.com/adobe-logo-yapici/)
 - [Web için Photoshop](https://wolkanca.com/web-icin-photoshop/)
 - [Counter-Strike 2 çıktı](https://wolkanca.com/counter-strike-2-cikti/)
 - [Google 25. doğum günü](https://wolkanca.com/google-25-dogum-gunu/)
 - [Youtube “Premium Lite” kapatıldı](https://wolkanca.com/youtube-premium-lite-kapatildi/)
-- [.TR alan adları hakkında](https://wolkanca.com/tr-alan-adlari-hakkinda/)
 <!-- BLOG-POST-LIST:END -->
 
 
