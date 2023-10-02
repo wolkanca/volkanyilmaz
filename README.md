@@ -11,11 +11,11 @@ Cloudflare Pages. Test. Volkan. https://volkan.pages.dev/
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [X, Twitch alternatifi mi olacak?](https://wolkanca.com/x-twitch-alternatifi-mi-olacak/)
 - [Monitör tercihiniz hangisi?](https://wolkanca.com/monitor-tercihiniz-hangisi/)
 - [Adobe logo yapıcı](https://wolkanca.com/adobe-logo-yapici/)
 - [Web için Photoshop](https://wolkanca.com/web-icin-photoshop/)
 - [Counter-Strike 2 çıktı](https://wolkanca.com/counter-strike-2-cikti/)
-- [Google 25. doğum günü](https://wolkanca.com/google-25-dogum-gunu/)
 <!-- BLOG-POST-LIST:END -->
 
 
