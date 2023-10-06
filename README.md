@@ -11,11 +11,11 @@ Cloudflare Pages. Test. Volkan. https://volkan.pages.dev/
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [X için 3 farklı Premium seçeneği](https://wolkanca.com/x-icin-3-farkli-premium-secenegi/)
 - [Google masaüstü sonsuz kaydırma](https://wolkanca.com/google-masaustu-sonsuz-kaydirma/)
 - [Windows 12 ile ChromeOS’a rakip olacak](https://wolkanca.com/windows-12-ile-chromeosa-rakip-olacak/)
 - [Paint yapay zekâ özellikleri](https://wolkanca.com/paint-yapay-zeka-ozellikleri/)
 - [X, Twitch alternatifi mi olacak?](https://wolkanca.com/x-twitch-alternatifi-mi-olacak/)
-- [Monitör tercihiniz hangisi?](https://wolkanca.com/monitor-tercihiniz-hangisi/)
 <!-- BLOG-POST-LIST:END -->
 
 
