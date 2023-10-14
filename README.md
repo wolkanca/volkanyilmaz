@@ -11,11 +11,11 @@ Cloudflare Pages. Test. Volkan. https://volkan.pages.dev/
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Konuşmaları 20 farklı dile çeviren araç](https://wolkanca.com/konusmalari-20-farkli-dile-ceviren-arac/)
+- [AI destekli Google Arama](https://wolkanca.com/ai-destekli-google-arama/)
 - [Online PHP editörler](https://wolkanca.com/online-php-editorler/)
 - [Chrome SERP Counter uzantısı](https://wolkanca.com/chrome-serp-counter-uzantisi/)
 - [Rusya VPN’i yasaklıyor](https://wolkanca.com/rusya-vpni-yasakliyor/)
-- [VDS ile VPS farkları](https://wolkanca.com/vds-ile-vps-farklari/)
-- [21. yüzyılın en iyi dizileri](https://wolkanca.com/21-yuzyilin-en-iyi-dizileri/)
 <!-- BLOG-POST-LIST:END -->
 
 
