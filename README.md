@@ -11,11 +11,11 @@ Cloudflare Pages. Test. Volkan. https://volkan.pages.dev/
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Evden verimli çalışmak için 7 öneri](https://wolkanca.com/evden-verimli-calismak-icin-7-oneri/)
 - [Marvel izleme klavuzu](https://wolkanca.com/marvel-izleme-klavuzu/)
 - [İnsanlık tarihinin en önemli 10 buluşu](https://wolkanca.com/insanlik-tarihinin-en-onemli-10-bulusu/)
 - [Monarch: Legacy of Monsters](https://wolkanca.com/monarch-legacy-of-monsters/)
 - [Konuşmaları 20 farklı dile çeviren araç](https://wolkanca.com/konusmalari-20-farkli-dile-ceviren-arac/)
-- [AI destekli Google Arama](https://wolkanca.com/ai-destekli-google-arama/)
 <!-- BLOG-POST-LIST:END -->
 
 
