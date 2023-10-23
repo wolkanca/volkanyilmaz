@@ -11,11 +11,11 @@ Cloudflare Pages. Test. Volkan. https://volkan.pages.dev/
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Cities: Skylines II bugün çıkıyor](https://wolkanca.com/cities-skylines-ii-bugun-cikiyor/)
 - [“Türkiye’nin Hazineleri” Google Arts &amp; Culture](https://wolkanca.com/turkiyenin-hazineleri-google-arts-culture/)
 - [Twitch’den eş zamanlı yayına izin](https://wolkanca.com/twitchden-es-zamanli-yayina-izin/)
 - [Vehbi Koç’tan 7 öğüt](https://wolkanca.com/vehbi-koctan-7-ogut/)
 - [ChatGPT web’den bilgi arama](https://wolkanca.com/chatgpt-webden-bilgi-arama/)
-- [Evden verimli çalışmak için 7 öneri](https://wolkanca.com/evden-verimli-calismak-icin-7-oneri/)
 <!-- BLOG-POST-LIST:END -->
 
 
