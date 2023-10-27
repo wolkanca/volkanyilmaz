@@ -11,11 +11,11 @@ Cloudflare Pages. Test. Volkan. https://volkan.pages.dev/
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Cumhuriyet Anıtı](https://wolkanca.com/cumhuriyet-aniti/)
 - [Cumhuriyet’in 100. yılı reklam filmleri](https://wolkanca.com/cumhuriyetin-100-yili-reklam-filmleri/)
 - [Tech Vault – soru bankası](https://wolkanca.com/tech-vault-soru-bankasi/)
 - [Mynet el değiştirdi](https://wolkanca.com/mynet-el-degistirdi/)
 - [Cities: Skylines II bugün çıkıyor](https://wolkanca.com/cities-skylines-ii-bugun-cikiyor/)
-- [“Türkiye’nin Hazineleri” Google Arts &amp; Culture](https://wolkanca.com/turkiyenin-hazineleri-google-arts-culture/)
 <!-- BLOG-POST-LIST:END -->
 
 
