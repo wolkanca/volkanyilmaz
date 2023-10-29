@@ -11,9 +11,9 @@ Cloudflare Pages. Test. Volkan. https://volkan.pages.dev/
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Dünyada trafik yönü](https://wolkanca.com/dunyada-trafik-yonu/)
-- [Cumhuriyet Anıtı](https://wolkanca.com/cumhuriyet-aniti/)
 - [Cumhuriyet’in 100. yılı reklam filmleri](https://wolkanca.com/cumhuriyetin-100-yili-reklam-filmleri/)
+- [Cumhuriyet Anıtı](https://wolkanca.com/cumhuriyet-aniti/)
+- [Dünyada trafik yönü](https://wolkanca.com/dunyada-trafik-yonu/)
 - [Tech Vault – soru bankası](https://wolkanca.com/tech-vault-soru-bankasi/)
 - [Mynet el değiştirdi](https://wolkanca.com/mynet-el-degistirdi/)
 <!-- BLOG-POST-LIST:END -->
