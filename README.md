@@ -11,11 +11,11 @@ Cloudflare Pages. Test. Volkan. https://volkan.pages.dev/
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Apple M3 işlemcili yeni modellerini tanıttı](https://wolkanca.com/apple-m3-islemcili-yeni-modellerini-tanitti/)
 - [Gmail emoji tepkileri](https://wolkanca.com/gmail-emoji-tepkileri/)
 - [Cumhuriyet’in 100. yılı reklam filmleri](https://wolkanca.com/cumhuriyetin-100-yili-reklam-filmleri/)
 - [Cumhuriyet Anıtı](https://wolkanca.com/cumhuriyet-aniti/)
 - [Dünyada trafik yönü](https://wolkanca.com/dunyada-trafik-yonu/)
-- [Tech Vault – soru bankası](https://wolkanca.com/tech-vault-soru-bankasi/)
 <!-- BLOG-POST-LIST:END -->
 
 
