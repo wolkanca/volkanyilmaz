@@ -11,11 +11,11 @@ Cloudflare Pages. Test. Volkan. https://volkan.pages.dev/
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [M3 işlemcili cihazlar için incelemeler](https://wolkanca.com/m3-islemcili-cihazlar-icin-incelemeler/)
 - [2 günlük Cloudflare kesintisi](https://wolkanca.com/2-gunluk-cloudflare-kesintisi/)
 - [Nefes: Yer Eksi İki](https://wolkanca.com/nefes-yer-eksi-iki/)
 - [Neden hıçkırırız?](https://wolkanca.com/neden-hickiririz/)
 - [Neden hapşırırız?](https://wolkanca.com/neden-hapsiririz/)
-- [Yeni Marvel dizisi Echo](https://wolkanca.com/yeni-marvel-dizisi-echo/)
 <!-- BLOG-POST-LIST:END -->
 
 
