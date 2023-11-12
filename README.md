@@ -11,11 +11,11 @@ Cloudflare Pages. Test. Volkan. https://volkan.pages.dev/
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Formatsız Windows 11’e geçiş](https://wolkanca.com/formatsiz-windows-11e-gecis/)
 - [Call of Duty: Modern Warfare III 2023 çıktı](https://wolkanca.com/call-of-duty-modern-warfare-iii-2023-cikti/)
 - [NASA Plus açıldı](https://wolkanca.com/nasa-plus-acildi/)
 - [Fakespot Chat](https://wolkanca.com/fakespot-chat/)
 - [Microsoft Edge kaldırmak](https://wolkanca.com/microsoft-edge-kaldirmak/)
-- [M3 işlemcili cihazlar için incelemeler](https://wolkanca.com/m3-islemcili-cihazlar-icin-incelemeler/)
 <!-- BLOG-POST-LIST:END -->
 
 
