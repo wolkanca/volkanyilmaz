@@ -11,11 +11,11 @@ Cloudflare Pages. Test. Volkan. https://volkan.pages.dev/
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Ölümlü Dünya 2 Fragmanı](https://wolkanca.com/olumlu-dunya-2-fragmani/)
 - [Vave BG – ücretsiz arka plan görselleri](https://wolkanca.com/vave-bg-ucretsiz-arka-plan-gorselleri/)
 - [Grand Theft Auto 6 fragmanı ile rekorlar kırıyor](https://wolkanca.com/grand-theft-auto-6-fragmani-ile-rekorlar-kiriyor/)
 - [Formatsız Windows 11’e geçiş](https://wolkanca.com/formatsiz-windows-11e-gecis/)
 - [Call of Duty: Modern Warfare III 2023 çıktı](https://wolkanca.com/call-of-duty-modern-warfare-iii-2023-cikti/)
-- [NASA Plus açıldı](https://wolkanca.com/nasa-plus-acildi/)
 <!-- BLOG-POST-LIST:END -->
 
 
