@@ -11,11 +11,11 @@ Cloudflare Pages. Test. Volkan. https://volkan.pages.dev/
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Half-Life bir süre ücretsiz oldu](https://wolkanca.com/half-life-bir-sure-ucretsiz-oldu/)
 - [Google, arama sonuçlarında notlar ve takip](https://wolkanca.com/google-arama-sonuclarinda-notlar-ve-takip/)
 - [Ölümlü Dünya 2 Fragmanı](https://wolkanca.com/olumlu-dunya-2-fragmani/)
 - [Vave BG – ücretsiz arka plan görselleri](https://wolkanca.com/vave-bg-ucretsiz-arka-plan-gorselleri/)
 - [Grand Theft Auto 6 fragmanı ile rekorlar kırıyor](https://wolkanca.com/grand-theft-auto-6-fragmani-ile-rekorlar-kiriyor/)
-- [Formatsız Windows 11’e geçiş](https://wolkanca.com/formatsiz-windows-11e-gecis/)
 <!-- BLOG-POST-LIST:END -->
 
 
