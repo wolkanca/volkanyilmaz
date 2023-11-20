@@ -11,11 +11,11 @@ Cloudflare Pages. Test. Volkan. https://volkan.pages.dev/
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Google Haritalar yeni renkler](https://wolkanca.com/google-haritalar-yeni-renkler/)
 - [X İş İlanları platformu açıldı](https://wolkanca.com/x-is-ilanlari-platformu-acildi/)
 - [Half-Life bir süre ücretsiz oldu](https://wolkanca.com/half-life-bir-sure-ucretsiz-oldu/)
 - [Google, arama sonuçlarında notlar ve takip](https://wolkanca.com/google-arama-sonuclarinda-notlar-ve-takip/)
 - [Ölümlü Dünya 2 Fragmanı](https://wolkanca.com/olumlu-dunya-2-fragmani/)
-- [Vave BG – ücretsiz arka plan görselleri](https://wolkanca.com/vave-bg-ucretsiz-arka-plan-gorselleri/)
 <!-- BLOG-POST-LIST:END -->
 
 
