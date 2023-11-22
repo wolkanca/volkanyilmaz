@@ -11,11 +11,11 @@ Cloudflare Pages. Test. Volkan. https://volkan.pages.dev/
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [WhatsApp’da, e-posta ile hesap doğrulama](https://wolkanca.com/whatsappda-e-posta-ile-hesap-dogrulama/)
 - [En iyi 250 film listesi – 2023](https://wolkanca.com/en-iyi-250-film-listesi-2023/)
 - [Steam dolara geçti](https://wolkanca.com/steam-dolara-gecti/)
 - [Google Haritalar yeni renkler](https://wolkanca.com/google-haritalar-yeni-renkler/)
 - [X İş İlanları platformu açıldı](https://wolkanca.com/x-is-ilanlari-platformu-acildi/)
-- [Half-Life bir süre ücretsiz oldu](https://wolkanca.com/half-life-bir-sure-ucretsiz-oldu/)
 <!-- BLOG-POST-LIST:END -->
 
 
