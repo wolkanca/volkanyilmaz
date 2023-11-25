@@ -11,11 +11,11 @@ Cloudflare Pages. Test. Volkan. https://volkan.pages.dev/
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Aquaman 2 yeni fragman](https://wolkanca.com/aquaman-2-yeni-fragman/)
 - [ChatGPT artık sesli cevap verebiliyor](https://wolkanca.com/chatgpt-artik-sesli-cevap-verebiliyor/)
 - [Google Search Console robots.txt raporu](https://wolkanca.com/google-search-console-robots-txt-raporu/)
 - [Bard Youtube videolarını izliyor ve anlıyor](https://wolkanca.com/bard-youtube-videolarini-izliyor-ve-anliyor/)
 - [Dünyanın en iyi 100 markası](https://wolkanca.com/dunyanin-en-iyi-100-markasi/)
-- [WhatsApp’da, e-posta ile hesap doğrulama](https://wolkanca.com/whatsappda-e-posta-ile-hesap-dogrulama/)
 <!-- BLOG-POST-LIST:END -->
 
 
