@@ -11,11 +11,11 @@ Cloudflare Pages. Test. Volkan. https://volkan.pages.dev/
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [En iyi mobil uygulama ve oyunlar 2023](https://wolkanca.com/en-iyi-mobil-uygulama-ve-oyunlar-2023/)
 - [Google’dan “.meme” alan adı](https://wolkanca.com/googledan-meme-alan-adi/)
 - [Stable Video Diffusion](https://wolkanca.com/stable-video-diffusion/)
 - [Ücretsiz Assassin’s Creed](https://wolkanca.com/ucretsiz-assassins-creed/)
 - [Aquaman 2 yeni fragman](https://wolkanca.com/aquaman-2-yeni-fragman/)
-- [ChatGPT artık sesli cevap verebiliyor](https://wolkanca.com/chatgpt-artik-sesli-cevap-verebiliyor/)
 <!-- BLOG-POST-LIST:END -->
 
 
