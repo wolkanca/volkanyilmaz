@@ -11,11 +11,11 @@ Cloudflare Pages. Test. Volkan. https://volkan.pages.dev/
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [WhatsApp tek kullanımlık gönderi özelliği](https://wolkanca.com/whatsapp-tek-kullanimlik-gonderi-ozelligi/)
 - [Vize istemeyen ülkeler](https://wolkanca.com/vize-istemeyen-ulkeler/)
 - [Diller nereden geliyor?](https://wolkanca.com/diller-nereden-geliyor/)
 - [Cem Yılmaz CMXXIV – 2024](https://wolkanca.com/cem-yilmaz-cmxxiv-2024/)
 - [Gibi 5. sezon çekimleri başladı](https://wolkanca.com/gibi-5-sezon-cekimleri-basladi/)
-- [GTA 6 fragmanı yayınlandı](https://wolkanca.com/gta-6-fragmani-yayinlandi/)
 <!-- BLOG-POST-LIST:END -->
 
 
