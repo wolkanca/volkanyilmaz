@@ -11,11 +11,11 @@ Cloudflare Pages. Test. Volkan. https://volkan.pages.dev/
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [BTK 15 VPN servisini engelleyecek mi?](https://wolkanca.com/btk-15-vpn-servisini-engelleyecek-mi/)
 - [Twitch’te “Legal Müstehcenlik” dönemi](https://wolkanca.com/twitchte-legal-mustehcenlik-donemi/)
 - [“Dünyayı Ardında Bırak” filmi](https://wolkanca.com/dunyayi-ardinda-birak-filmi/)
 - [Optimus – Gen 2](https://wolkanca.com/optimus-gen-2/)
 - [Year in Search 2023 – Google](https://wolkanca.com/year-in-search-2023-google/)
-- [WhatsApp tek kullanımlık gönderi özelliği](https://wolkanca.com/whatsapp-tek-kullanimlik-gonderi-ozelligi/)
 <!-- BLOG-POST-LIST:END -->
 
 
