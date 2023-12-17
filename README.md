@@ -11,11 +11,11 @@ Cloudflare Pages. Test. Volkan. https://volkan.pages.dev/
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Out of Darkness: Taş Devri’nden Gelen Korku](https://wolkanca.com/out-of-darkness-tas-devrinden-gelen-korku/)
 - [Dünyanın en yaşanabilir şehirleri 2023](https://wolkanca.com/dunyanin-en-yasanabilir-sehirleri-2023/)
 - [BTK 15 VPN servisini engelleyecek mi?](https://wolkanca.com/btk-15-vpn-servisini-engelleyecek-mi/)
 - [Twitch’te “Legal Müstehcenlik” dönemi](https://wolkanca.com/twitchte-legal-mustehcenlik-donemi/)
 - [“Dünyayı Ardında Bırak” filmi](https://wolkanca.com/dunyayi-ardinda-birak-filmi/)
-- [Optimus – Gen 2](https://wolkanca.com/optimus-gen-2/)
 <!-- BLOG-POST-LIST:END -->
 
 
