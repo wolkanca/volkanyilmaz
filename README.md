@@ -11,11 +11,11 @@ Cloudflare Pages. Test. Volkan. https://volkan.pages.dev/
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Uranüs’ün en ayrıntılı fotoğrafı](https://wolkanca.com/uranusun-en-ayrintili-fotografi/)
 - [Yapay zeka ile kediler](https://wolkanca.com/yapay-zeka-ile-kediler/)
 - [Sıfır tıklama saldırısı ne demek](https://wolkanca.com/sifir-tiklama-saldirisi-ne-demek/)
 - [2024’ün en çok beklenen filmleri](https://wolkanca.com/2024un-en-cok-beklenen-filmleri/)
 - [Headless SEO nedir?](https://wolkanca.com/headless-seo-nedir/)
-- [Out of Darkness: Taş Devri’nden Gelen Korku](https://wolkanca.com/out-of-darkness-tas-devrinden-gelen-korku/)
 <!-- BLOG-POST-LIST:END -->
 
 
