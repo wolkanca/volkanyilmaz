@@ -11,11 +11,11 @@ Cloudflare Pages. Test. Volkan. https://volkan.pages.dev/
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Warner Bros. Discovery, BluTV’yi satın aldı](https://wolkanca.com/warner-bros-discovery-blutvyi-satin-aldi/)
 - [Ölümlü Dünya filmi izlemek](https://wolkanca.com/olumlu-dunya-filmi-izlemek/)
 - [Apple’ın yapay zeka aracı Ferret](https://wolkanca.com/applein-yapay-zeka-araci-ferret/)
 - [Android’den iOS’a geçmek](https://wolkanca.com/androidden-iosa-gecmek/)
 - [Uranüs’ün en ayrıntılı fotoğrafı](https://wolkanca.com/uranusun-en-ayrintili-fotografi/)
-- [Yapay zeka ile kediler](https://wolkanca.com/yapay-zeka-ile-kediler/)
 <!-- BLOG-POST-LIST:END -->
 
 
