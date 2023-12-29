@@ -11,11 +11,11 @@ Cloudflare Pages. Test. Volkan. https://volkan.pages.dev/
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Işığı maddeye dönüştürmek](https://wolkanca.com/isigi-maddeye-donusturmek/)
+- [Google Chrome gizlilik ihlalinden cezalandırıldı](https://wolkanca.com/google-chrome-gizlilik-ihlalinden-cezalandirildi/)
+- [Amazon Prime Video reklam gösterecek](https://wolkanca.com/amazon-prime-video-reklam-gosterecek/)
 - [Warner Bros. Discovery, BluTV’yi satın aldı](https://wolkanca.com/warner-bros-discovery-blutvyi-satin-aldi/)
 - [Ölümlü Dünya filmi izlemek](https://wolkanca.com/olumlu-dunya-filmi-izlemek/)
-- [Apple’ın yapay zeka aracı Ferret](https://wolkanca.com/applein-yapay-zeka-araci-ferret/)
-- [Android’den iOS’a geçmek](https://wolkanca.com/androidden-iosa-gecmek/)
-- [Uranüs’ün en ayrıntılı fotoğrafı](https://wolkanca.com/uranusun-en-ayrintili-fotografi/)
 <!-- BLOG-POST-LIST:END -->
 
 
