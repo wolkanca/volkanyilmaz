@@ -11,11 +11,11 @@ Cloudflare Pages. Test. Volkan. https://volkan.pages.dev/
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Merhaba 2024, mutlu yıllar!](https://wolkanca.com/merhaba-2024-mutlu-yillar/)
 - [GPT-4 ve DALL-E 3 ücretsiz oldu](https://wolkanca.com/gpt-4-ve-dall-e-3-ucretsiz-oldu/)
 - [Işığı maddeye dönüştürmek](https://wolkanca.com/isigi-maddeye-donusturmek/)
 - [Google Chrome gizlilik ihlalinden cezalandırıldı](https://wolkanca.com/google-chrome-gizlilik-ihlalinden-cezalandirildi/)
 - [Amazon Prime Video reklam gösterecek](https://wolkanca.com/amazon-prime-video-reklam-gosterecek/)
-- [Warner Bros. Discovery, BluTV’yi satın aldı](https://wolkanca.com/warner-bros-discovery-blutvyi-satin-aldi/)
 <!-- BLOG-POST-LIST:END -->
 
 
