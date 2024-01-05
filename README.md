@@ -11,11 +11,11 @@ Cloudflare Pages. Test. Volkan. https://volkan.pages.dev/
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Atatürk Adana gezisi](https://wolkanca.com/ataturk-adana-gezisi/)
 - [Beni anlatan belgesel](https://wolkanca.com/beni-anlatan-belgesel/)
 - [Sahibinden.com’a ne oldu?](https://wolkanca.com/sahibinden-coma-ne-oldu/)
 - [2023 sinemalarda en çok izlenen filmler](https://wolkanca.com/2023-sinemalarda-en-cok-izlenen-filmler/)
 - [Merhaba 2024, mutlu yıllar!](https://wolkanca.com/merhaba-2024-mutlu-yillar/)
-- [GPT-4 ve DALL-E 3 ücretsiz oldu](https://wolkanca.com/gpt-4-ve-dall-e-3-ucretsiz-oldu/)
 <!-- BLOG-POST-LIST:END -->
 
 
