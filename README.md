@@ -11,11 +11,11 @@ Cloudflare Pages. Test. Volkan. https://volkan.pages.dev/
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Türkiye’de en çok satılan otomobiller &lpar;2023&rpar;](https://wolkanca.com/turkiyede-en-cok-satilan-otomobiller-2023/)
+- [LinkedIn profiliniz maaşınızı artırabilir mi?](https://wolkanca.com/linkedin-profiliniz-maasinizi-artirabilir-mi/)
 - [Atatürk Adana gezisi](https://wolkanca.com/ataturk-adana-gezisi/)
 - [Beni anlatan belgesel](https://wolkanca.com/beni-anlatan-belgesel/)
 - [Sahibinden.com’a ne oldu?](https://wolkanca.com/sahibinden-coma-ne-oldu/)
-- [2023 sinemalarda en çok izlenen filmler](https://wolkanca.com/2023-sinemalarda-en-cok-izlenen-filmler/)
-- [Merhaba 2024, mutlu yıllar!](https://wolkanca.com/merhaba-2024-mutlu-yillar/)
 <!-- BLOG-POST-LIST:END -->
 
 
