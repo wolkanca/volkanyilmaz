@@ -11,11 +11,11 @@ Cloudflare Pages. Test. Volkan. https://volkan.pages.dev/
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Echo dizisi Disney+’ta başladı](https://wolkanca.com/echo-dizisi-disneyta-basladi/)
+- [The Walking Dead 2024](https://wolkanca.com/the-walking-dead-2024/)
 - [Cem Yılmaz CMXXIV başladı](https://wolkanca.com/cem-yilmaz-cmxxiv-basladi/)
 - [Excel’de joker karakter](https://wolkanca.com/excelde-joker-karakter/)
 - [Türkiye’de en çok satılan otomobiller &lpar;2023&rpar;](https://wolkanca.com/turkiyede-en-cok-satilan-otomobiller-2023/)
-- [LinkedIn profiliniz maaşınızı artırabilir mi?](https://wolkanca.com/linkedin-profiliniz-maasinizi-artirabilir-mi/)
-- [Atatürk Adana gezisi](https://wolkanca.com/ataturk-adana-gezisi/)
 <!-- BLOG-POST-LIST:END -->
 
 
