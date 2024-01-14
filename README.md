@@ -11,11 +11,11 @@ Cloudflare Pages. Test. Volkan. https://volkan.pages.dev/
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [YouTube Music menü tasarımı değişiyor](https://wolkanca.com/youtube-music-menu-tasarimi-degisiyor/)
 - [Napolyon filmi, Apple TV+’da ücretsiz](https://wolkanca.com/napolyon-filmi-apple-tvda-ucretsiz/)
 - [Wi-R bağlantısı](https://wolkanca.com/wi-r-baglantisi/)
 - [Echo dizisi Disney+’ta başladı](https://wolkanca.com/echo-dizisi-disneyta-basladi/)
 - [The Walking Dead 2024](https://wolkanca.com/the-walking-dead-2024/)
-- [Cem Yılmaz CMXXIV başladı](https://wolkanca.com/cem-yilmaz-cmxxiv-basladi/)
 <!-- BLOG-POST-LIST:END -->
 
 
