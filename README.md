@@ -11,11 +11,11 @@ Cloudflare Pages. Test. Volkan. https://volkan.pages.dev/
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Evreni Yutan Çocuk – Netflix](https://wolkanca.com/evreni-yutan-cocuk-netflix/)
 - [Deepfake’den korunma yolları](https://wolkanca.com/deepfakeden-korunma-yollari/)
 - [Michael &lpar;2025&rpar;](https://wolkanca.com/michael-2025/)
 - [YouTube Music menü tasarımı değişiyor](https://wolkanca.com/youtube-music-menu-tasarimi-degisiyor/)
 - [Napolyon filmi, Apple TV+’da ücretsiz](https://wolkanca.com/napolyon-filmi-apple-tvda-ucretsiz/)
-- [Wi-R bağlantısı](https://wolkanca.com/wi-r-baglantisi/)
 <!-- BLOG-POST-LIST:END -->
 
 
