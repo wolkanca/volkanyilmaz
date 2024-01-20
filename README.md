@@ -11,11 +11,11 @@ Cloudflare Pages. Test. Volkan. https://volkan.pages.dev/
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Grand Test Auto XXIV](https://wolkanca.com/grand-test-auto-xxiv/)
 - [Uzaya çıktık](https://wolkanca.com/uzaya-ciktik/)
 - [Turkcell kullanım bildirimi](https://wolkanca.com/turkcell-kullanim-bildirimi/)
 - [Evreni Yutan Çocuk – Netflix](https://wolkanca.com/evreni-yutan-cocuk-netflix/)
 - [Deepfake’den korunma yolları](https://wolkanca.com/deepfakeden-korunma-yollari/)
-- [Michael &lpar;2025&rpar;](https://wolkanca.com/michael-2025/)
 <!-- BLOG-POST-LIST:END -->
 
 
