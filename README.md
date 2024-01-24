@@ -11,11 +11,11 @@ Cloudflare Pages. Test. Volkan. https://volkan.pages.dev/
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Gogole Chrome AI özellikleri](https://wolkanca.com/gogole-chrome-ai-ozellikleri/)
 - [Ayşen Gruda](https://wolkanca.com/aysen-gruda/)
 - [iOS 17.3 bu hafta geliyor](https://wolkanca.com/ios-17-3-bu-hafta-geliyor/)
 - [Bard kod yazabiliyor](https://wolkanca.com/bard-kod-yazabiliyor/)
 - [Grand Test Auto XXIV](https://wolkanca.com/grand-test-auto-xxiv/)
-- [Uzaya çıktık](https://wolkanca.com/uzaya-ciktik/)
 <!-- BLOG-POST-LIST:END -->
 
 
