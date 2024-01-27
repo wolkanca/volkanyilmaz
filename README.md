@@ -14,7 +14,7 @@ Cloudflare Pages. Test. Volkan. https://volkan.pages.dev/
 - [Google Lumiere](https://wolkanca.com/google-lumiere/)
 - [Şu an saat kaç – UTC](https://wolkanca.com/su-an-saat-kac-utc/)
 - [Ücretsiz HTML hosting](https://wolkanca.com/ucretsiz-html-hosting/)
-- [Gogole Chrome AI özellikleri](https://wolkanca.com/gogole-chrome-ai-ozellikleri/)
+- [Google Chrome AI özellikleri](https://wolkanca.com/google-chrome-ai-ozellikleri/)
 - [Ayşen Gruda](https://wolkanca.com/aysen-gruda/)
 <!-- BLOG-POST-LIST:END -->
 
