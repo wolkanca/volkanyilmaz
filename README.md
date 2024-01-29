@@ -11,11 +11,11 @@ Cloudflare Pages. Test. Volkan. https://volkan.pages.dev/
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Bankalarda “Ödeme İste sistemi” başladı](https://wolkanca.com/bankalarda-odeme-iste-sistemi-basladi/)
 - [Avrupa maçları TRT’de](https://wolkanca.com/avrupa-maclari-trtde/)
 - [Google Lumiere](https://wolkanca.com/google-lumiere/)
 - [Şu an saat kaç – UTC](https://wolkanca.com/su-an-saat-kac-utc/)
 - [Ücretsiz HTML hosting](https://wolkanca.com/ucretsiz-html-hosting/)
-- [Google Chrome AI özellikleri](https://wolkanca.com/google-chrome-ai-ozellikleri/)
 <!-- BLOG-POST-LIST:END -->
 
 
