@@ -11,11 +11,11 @@ Cloudflare Pages. Test. Volkan. https://volkan.pages.dev/
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Google’da Önbelleği göster bağlantısı kaldırıldı](https://wolkanca.com/googleda-onbellegi-goster-baglantisi-kaldirildi/)
 - [The Day the Earth Caught Fire](https://wolkanca.com/the-day-the-earth-caught-fire/)
 - [Şubat’ta Netflix’e eklenecekler](https://wolkanca.com/subatta-netflixe-eklenecekler/)
 - [Google SEO Başlangıç Kılavuzu değişiyor](https://wolkanca.com/google-seo-baslangic-kilavuzu-degisiyor/)
 - [Bankalarda “Ödeme İste sistemi” başladı](https://wolkanca.com/bankalarda-odeme-iste-sistemi-basladi/)
-- [Avrupa maçları TRT’de](https://wolkanca.com/avrupa-maclari-trtde/)
 <!-- BLOG-POST-LIST:END -->
 
 
