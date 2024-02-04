@@ -11,11 +11,11 @@ Cloudflare Pages. Test. Volkan. https://volkan.pages.dev/
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [iOS 18 alacak iPhone modelleri](https://wolkanca.com/ios-18-alacak-iphone-modelleri/)
 - [Google Haritalar yapay zeka](https://wolkanca.com/google-haritalar-yapay-zeka/)
 - [Google’da önbelleği göster bağlantısı kaldırıldı](https://wolkanca.com/googleda-onbellegi-goster-baglantisi-kaldirildi/)
 - [The Day the Earth Caught Fire](https://wolkanca.com/the-day-the-earth-caught-fire/)
 - [Şubat’ta Netflix’e eklenecekler](https://wolkanca.com/subatta-netflixe-eklenecekler/)
-- [Google SEO Başlangıç Kılavuzu değişiyor](https://wolkanca.com/google-seo-baslangic-kilavuzu-degisiyor/)
 <!-- BLOG-POST-LIST:END -->
 
 
