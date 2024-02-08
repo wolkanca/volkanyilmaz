@@ -11,11 +11,11 @@ Cloudflare Pages. Test. Volkan. https://volkan.pages.dev/
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Alper Dünyaya dönüyor](https://wolkanca.com/alper-dunyaya-donuyor/)
+- [WhatsApp third-party chats](https://wolkanca.com/whatsapp-third-party-chats/)
 - [6 Şubat Kahramanmaraş Depremleri](https://wolkanca.com/6-subat-kahramanmaras-depremleri/)
 - [Yapay zeka kontrollü hiper uydu](https://wolkanca.com/yapay-zeka-kontrollu-hiper-uydu/)
 - [iOS 18 alacak iPhone modelleri](https://wolkanca.com/ios-18-alacak-iphone-modelleri/)
-- [Google Haritalar yapay zeka](https://wolkanca.com/google-haritalar-yapay-zeka/)
-- [Google’da önbelleği göster bağlantısı kaldırıldı](https://wolkanca.com/googleda-onbellegi-goster-baglantisi-kaldirildi/)
 <!-- BLOG-POST-LIST:END -->
 
 
