@@ -11,11 +11,11 @@ Cloudflare Pages. Test. Volkan. https://volkan.pages.dev/
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Bard’ın Yeni Kimliği: Gemini!](https://wolkanca.com/bardin-yeni-kimligi-gemini/)
 - [Bluesky herkese açıldı!](https://wolkanca.com/bluesky-herkese-acildi/)
 - [Alper Dünyaya dönüyor](https://wolkanca.com/alper-dunyaya-donuyor/)
 - [WhatsApp third-party chats](https://wolkanca.com/whatsapp-third-party-chats/)
 - [6 Şubat Kahramanmaraş Depremleri](https://wolkanca.com/6-subat-kahramanmaras-depremleri/)
-- [Yapay zeka kontrollü hiper uydu](https://wolkanca.com/yapay-zeka-kontrollu-hiper-uydu/)
 <!-- BLOG-POST-LIST:END -->
 
 
