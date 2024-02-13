@@ -11,11 +11,11 @@ Cloudflare Pages. Test. Volkan. https://volkan.pages.dev/
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Kurtlar Vadisi Kaos](https://wolkanca.com/kurtlar-vadisi-kaos/)
 - [Deadpool &amp; Wolverine fragman](https://wolkanca.com/deadpool-wolverine-fragman/)
 - [İstanbul binaların yaşı](https://wolkanca.com/istanbul-binalarin-yasi/)
 - [B sınıfı ehliyet ile motosiklet](https://wolkanca.com/b-sinifi-ehliyet-ile-motosiklet/)
 - [Bard’ın Yeni Kimliği: Gemini!](https://wolkanca.com/bardin-yeni-kimligi-gemini/)
-- [Bluesky herkese açıldı!](https://wolkanca.com/bluesky-herkese-acildi/)
 <!-- BLOG-POST-LIST:END -->
 
 
