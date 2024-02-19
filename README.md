@@ -11,11 +11,11 @@ Cloudflare Pages. Test. Volkan. https://volkan.pages.dev/
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Google’dan 404 hatalarına dair](https://wolkanca.com/googledan-404-hatalarina-dair/)
 - [Windows 10 ve 11’e ücretsiz geçiş artık yok](https://wolkanca.com/windows-10-ve-11e-ucretsiz-gecis-artik-yok/)
 - [OpenAI “Sora” tanıtıldı](https://wolkanca.com/openai-sora-tanitildi/)
 - [Macar fotoğraf arşivinden 1800’lü yılların İstanbul’u](https://wolkanca.com/macar-fotograf-arsivinden-1800lu-yillarin-istanbulu/)
 - [Windows 10 ve 11’de Bing aramalarını Google’a yönlendirmek](https://wolkanca.com/windows-10-ve-11de-bing-aramalarini-googlea-yonlendirmek/)
-- [Kurtlar Vadisi Kaos](https://wolkanca.com/kurtlar-vadisi-kaos/)
 <!-- BLOG-POST-LIST:END -->
 
 
