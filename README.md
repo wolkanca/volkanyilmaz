@@ -11,11 +11,11 @@ Cloudflare Pages. Test. Volkan. https://volkan.pages.dev/
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Mükemmel bedava PC oyunları](https://wolkanca.com/mukemmel-bedava-pc-oyunlari/)
+- [ABD Adalet Bakanlığı Yapay Zekâ Baş Sorumlusu](https://wolkanca.com/abd-adalet-bakanligi-yapay-zeka-bas-sorumlusu/)
+- [Roblox oyunları – 2024](https://wolkanca.com/roblox-oyunlari-2024/)
 - [Twitch’e erişim engeli](https://wolkanca.com/twitche-erisim-engeli/)
-- [Kick vs Twitch](https://wolkanca.com/kick-vs-twitch/)
-- [Sinemaseverler için bir hazine](https://wolkanca.com/sinemaseverler-icin-bir-hazine/)
-- [Google’dan 404 hatalarına dair](https://wolkanca.com/googledan-404-hatalarina-dair/)
-- [Windows 10 ve 11’e ücretsiz geçiş artık yok](https://wolkanca.com/windows-10-ve-11e-ucretsiz-gecis-artik-yok/)
+- [Youtube Theater Mode fix](https://wolkanca.com/youtube-theater-mode-fix/)
 <!-- BLOG-POST-LIST:END -->
 
 
