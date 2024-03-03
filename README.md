@@ -11,11 +11,11 @@ Cloudflare Pages. Test. Volkan. https://volkan.pages.dev/
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Kitaplardan bilimkurgu filmine](https://wolkanca.com/kitaplardan-bilimkurgu-filmine/)
 - [Dünyanın en değerli 3. şirketi Nvidia](https://wolkanca.com/dunyanin-en-degerli-3-sirketi-nvidia/)
 - [Tumblr ve WordPress verilerini yapay zeka araçlarına açtı](https://wolkanca.com/tumblr-ve-wordpress-verilerini-yapay-zeka-araclarina-acti/)
 - [Tüm polislere yaka kamerası](https://wolkanca.com/tum-polislere-yaka-kamerasi/)
 - [iOS 18’e dair bilinenler](https://wolkanca.com/ios-18e-dair-bilinenler/)
-- [Sondaj Kuleleri Sondaj İşlemleri Sırasında Ne Yapar?](https://wolkanca.com/sondaj-kuleleri-sondaj-islemleri-sirasinda-ne-yapar/)
 <!-- BLOG-POST-LIST:END -->
 
 
