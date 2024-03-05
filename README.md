@@ -11,11 +11,11 @@ Cloudflare Pages. Test. Volkan. https://volkan.pages.dev/
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Apple ürünlerine zam](https://wolkanca.com/apple-urunlerine-zam/)
 - [M3 işlemcili MacBook Air çıktı](https://wolkanca.com/m3-islemcili-macbook-air-cikti/)
 - [Google Drive’ın iOS uygulamasında arama filtreleri güncellendi](https://wolkanca.com/google-drivein-ios-uygulamasinda-arama-filtreleri-guncellendi/)
 - [Kitaplardan bilimkurgu filmine](https://wolkanca.com/kitaplardan-bilimkurgu-filmine/)
 - [Dünyanın en değerli 3. şirketi Nvidia](https://wolkanca.com/dunyanin-en-degerli-3-sirketi-nvidia/)
-- [Tumblr ve WordPress verilerini yapay zeka araçlarına açtı](https://wolkanca.com/tumblr-ve-wordpress-verilerini-yapay-zeka-araclarina-acti/)
 <!-- BLOG-POST-LIST:END -->
 
 
