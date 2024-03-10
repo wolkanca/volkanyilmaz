@@ -11,11 +11,11 @@ Cloudflare Pages. Test. Volkan. https://volkan.pages.dev/
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Teröris tanıma, terörist testi oyunu: terorist-quiz](https://wolkanca.com/teroris-tanima-terorist-testi-oyunu-terorist-quiz/)
 - [X Makaleler özelliği açıldı](https://wolkanca.com/x-makaleler-ozelligi-acildi/)
 - [LinkedIn Premium rekor kırdı](https://wolkanca.com/linkedin-premium-rekor-kirdi/)
 - [Amazon’un artık nükleer enerjili veri merkezi de var](https://wolkanca.com/amazonun-artik-nukleer-enerjili-veri-merkezi-de-var/)
 - [Apple ürünlerine zam](https://wolkanca.com/apple-urunlerine-zam/)
-- [M3 işlemcili MacBook Air çıktı](https://wolkanca.com/m3-islemcili-macbook-air-cikti/)
 <!-- BLOG-POST-LIST:END -->
 
 
