@@ -11,11 +11,11 @@ Cloudflare Pages. Test. Volkan. https://volkan.pages.dev/
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [PayPal artık Türkiye’de çalışabilir mi?](https://wolkanca.com/paypal-artik-turkiyede-calisabilir-mi/)
 - [2024 Oscar Ödülleri sonuçlar](https://wolkanca.com/2024-oscar-odulleri-sonuclar/)
 - [Grok açık kaynak oluyor](https://wolkanca.com/grok-acik-kaynak-oluyor/)
 - [Terörist tanıma, terörist testi oyunu: terorist-quiz](https://wolkanca.com/terorist-tanima-terorist-testi-oyunu-terorist-quiz/)
 - [X Makaleler özelliği açıldı](https://wolkanca.com/x-makaleler-ozelligi-acildi/)
-- [LinkedIn Premium rekor kırdı](https://wolkanca.com/linkedin-premium-rekor-kirdi/)
 <!-- BLOG-POST-LIST:END -->
 
 
