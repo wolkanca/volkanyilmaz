@@ -11,11 +11,11 @@ Cloudflare Pages. Test. Volkan. https://volkan.pages.dev/
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Proton Mail masaüstü çıktı](https://wolkanca.com/proton-mail-masaustu-cikti/)
+- [Microsoft Teams ile iPhone’lar telsiz oluyor](https://wolkanca.com/microsoft-teams-ile-iphonelar-telsiz-oluyor/)
 - [Venom: The Last Dance](https://wolkanca.com/venom-the-last-dance/)
 - [Windows 95 ve önemi](https://wolkanca.com/windows-95-ve-onemi/)
 - [PayPal artık Türkiye’de çalışabilir mi?](https://wolkanca.com/paypal-artik-turkiyede-calisabilir-mi/)
-- [2024 Oscar Ödülleri sonuçlar](https://wolkanca.com/2024-oscar-odulleri-sonuclar/)
-- [Grok açık kaynak oluyor](https://wolkanca.com/grok-acik-kaynak-oluyor/)
 <!-- BLOG-POST-LIST:END -->
 
 
