@@ -11,11 +11,11 @@ Cloudflare Pages. Test. Volkan. https://volkan.pages.dev/
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Google Drive dark mod geldi](https://wolkanca.com/google-drive-dark-mod-geldi/)
+- [Google  “VLOGGER”](https://wolkanca.com/google-vlogger/)
 - [Proton Mail masaüstü çıktı](https://wolkanca.com/proton-mail-masaustu-cikti/)
 - [Microsoft Teams ile iPhone’lar telsiz oluyor](https://wolkanca.com/microsoft-teams-ile-iphonelar-telsiz-oluyor/)
 - [Venom: The Last Dance](https://wolkanca.com/venom-the-last-dance/)
-- [Windows 95 ve önemi](https://wolkanca.com/windows-95-ve-onemi/)
-- [PayPal artık Türkiye’de çalışabilir mi?](https://wolkanca.com/paypal-artik-turkiyede-calisabilir-mi/)
 <!-- BLOG-POST-LIST:END -->
 
 
