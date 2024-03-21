@@ -11,11 +11,11 @@ Cloudflare Pages. Test. Volkan. https://volkan.pages.dev/
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Windows Tanrı modu](https://wolkanca.com/windows-tanri-modu/)
+- [Düğmeler neden farklı yönde?](https://wolkanca.com/dugmeler-neden-farkli-yonde/)
 - [Google Drive dark mod geldi](https://wolkanca.com/google-drive-dark-mod-geldi/)
 - [Google  “VLOGGER”](https://wolkanca.com/google-vlogger/)
 - [Proton Mail masaüstü çıktı](https://wolkanca.com/proton-mail-masaustu-cikti/)
-- [Microsoft Teams ile iPhone’lar telsiz oluyor](https://wolkanca.com/microsoft-teams-ile-iphonelar-telsiz-oluyor/)
-- [Venom: The Last Dance](https://wolkanca.com/venom-the-last-dance/)
 <!-- BLOG-POST-LIST:END -->
 
 
