@@ -11,11 +11,11 @@ Cloudflare Pages. Test. Volkan. https://volkan.pages.dev/
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [iPhone’lar kutusundan çıkmadan güncellenecek](https://wolkanca.com/iphonelar-kutusundan-cikmadan-guncellenecek/)
 - [House of the Dragon 2. Sezon](https://wolkanca.com/house-of-the-dragon-2-sezon/)
 - [Reddit, Wall Street’e hızlı girdi](https://wolkanca.com/reddit-wall-streete-hizli-girdi/)
 - [Windows Tanrı modu](https://wolkanca.com/windows-tanri-modu/)
 - [Düğmeler neden farklı yönde?](https://wolkanca.com/dugmeler-neden-farkli-yonde/)
-- [Google Drive dark mod geldi](https://wolkanca.com/google-drive-dark-mod-geldi/)
 <!-- BLOG-POST-LIST:END -->
 
 
