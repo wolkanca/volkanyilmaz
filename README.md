@@ -11,11 +11,11 @@ Cloudflare Pages. Test. Volkan. https://volkan.pages.dev/
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Photoshop ile WebP dosyaları](https://wolkanca.com/photoshop-ile-webp-dosyalari/)
 - [Sam Bankman-Fried’e 25 yıl](https://wolkanca.com/sam-bankman-friede-25-yil/)
 - [Krone Dorselerin Avantajları ve Farkları](https://wolkanca.com/krone-dorselerin-avantajlari-ve-farklari/)
 - [Kadınlar Gününde Sevgiliye Alınabilecek En Güzel Çiçekler](https://wolkanca.com/kadinlar-gununde-sevgiliye-alinabilecek-en-guzel-cicekler/)
 - [Apple WWDC 2024](https://wolkanca.com/apple-wwdc-2024/)
-- [Windows 11 ekran bilgileri](https://wolkanca.com/windows-11-ekran-bilgileri/)
 <!-- BLOG-POST-LIST:END -->
 
 
