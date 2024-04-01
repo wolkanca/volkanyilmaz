@@ -11,11 +11,11 @@ Cloudflare Pages. Test. Volkan. https://volkan.pages.dev/
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Xbox Game Pass YouTube Premium veriyor](https://wolkanca.com/xbox-game-pass-youtube-premium-veriyor/)
 - [Bad Boys yeniden](https://wolkanca.com/bad-boys-yeniden/)
 - [Photoshop ile WebP dosyaları](https://wolkanca.com/photoshop-ile-webp-dosyalari/)
 - [Sam Bankman-Fried’e 25 yıl](https://wolkanca.com/sam-bankman-friede-25-yil/)
 - [Krone Dorselerin Avantajları ve Farkları](https://wolkanca.com/krone-dorselerin-avantajlari-ve-farklari/)
-- [Kadınlar Gününde Sevgiliye Alınabilecek En Güzel Çiçekler](https://wolkanca.com/kadinlar-gununde-sevgiliye-alinabilecek-en-guzel-cicekler/)
 <!-- BLOG-POST-LIST:END -->
 
 
