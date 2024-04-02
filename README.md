@@ -11,11 +11,11 @@ Cloudflare Pages. Test. Volkan. https://volkan.pages.dev/
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Kış Uykusu kamera arkası](https://wolkanca.com/kis-uykusu-kamera-arkasi/)
 - [Oppenheimer Amazon Prime](https://wolkanca.com/oppenheimer-amazon-prime/)
 - [Xbox Game Pass YouTube Premium veriyor](https://wolkanca.com/xbox-game-pass-youtube-premium-veriyor/)
 - [Bad Boys yeniden](https://wolkanca.com/bad-boys-yeniden/)
 - [Photoshop ile WebP dosyaları](https://wolkanca.com/photoshop-ile-webp-dosyalari/)
-- [Sam Bankman-Fried’e 25 yıl](https://wolkanca.com/sam-bankman-friede-25-yil/)
 <!-- BLOG-POST-LIST:END -->
 
 
