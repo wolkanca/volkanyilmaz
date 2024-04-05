@@ -11,11 +11,11 @@ Cloudflare Pages. Test. Volkan. https://volkan.pages.dev/
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [X mavi tik yeniden ücretsiz](https://wolkanca.com/x-mavi-tik-yeniden-ucretsiz/)
 - [Kuantum hesaplamada gelişme](https://wolkanca.com/kuantum-hesaplamada-gelisme/)
 - [Kış Uykusu kamera arkası](https://wolkanca.com/kis-uykusu-kamera-arkasi/)
 - [Oppenheimer Amazon Prime](https://wolkanca.com/oppenheimer-amazon-prime/)
 - [Xbox Game Pass YouTube Premium veriyor](https://wolkanca.com/xbox-game-pass-youtube-premium-veriyor/)
-- [Bad Boys yeniden](https://wolkanca.com/bad-boys-yeniden/)
 <!-- BLOG-POST-LIST:END -->
 
 
