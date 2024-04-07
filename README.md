@@ -11,11 +11,11 @@ Cloudflare Pages. Test. Volkan. https://volkan.pages.dev/
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [DNS nedir nasıl çalışır?](https://wolkanca.com/dns-nedir-nasil-calisir/)
 - [Güvenli Arama Aracı Search Console’a taşındı](https://wolkanca.com/guvenli-arama-araci-search-consolea-tasindi/)
 - [X mavi tik yeniden ücretsiz](https://wolkanca.com/x-mavi-tik-yeniden-ucretsiz/)
 - [Kuantum hesaplamada gelişme](https://wolkanca.com/kuantum-hesaplamada-gelisme/)
 - [Kış Uykusu kamera arkası](https://wolkanca.com/kis-uykusu-kamera-arkasi/)
-- [Oppenheimer Amazon Prime](https://wolkanca.com/oppenheimer-amazon-prime/)
 <!-- BLOG-POST-LIST:END -->
 
 
