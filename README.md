@@ -11,11 +11,11 @@ Cloudflare Pages. Test. Volkan. https://volkan.pages.dev/
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Joker: İkili Delilik](https://wolkanca.com/joker-ikili-delilik/)
 - [Gmail AI “e-posta özetleme”](https://wolkanca.com/gmail-ai-e-posta-ozetleme/)
 - [Chrome ile her site bir uygulama](https://wolkanca.com/chrome-ile-her-site-bir-uygulama/)
 - [DNS nedir nasıl çalışır?](https://wolkanca.com/dns-nedir-nasil-calisir/)
 - [Güvenli Arama Aracı Search Console’a taşındı](https://wolkanca.com/guvenli-arama-araci-search-consolea-tasindi/)
-- [X mavi tik yeniden ücretsiz](https://wolkanca.com/x-mavi-tik-yeniden-ucretsiz/)
 <!-- BLOG-POST-LIST:END -->
 
 
