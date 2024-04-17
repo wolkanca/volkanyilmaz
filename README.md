@@ -11,11 +11,11 @@ Cloudflare Pages. Test. Volkan. https://volkan.pages.dev/
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Google Maps şarj istasyonları](https://wolkanca.com/google-maps-sarj-istasyonlari/)
+- [WhatsApp online olanlar](https://wolkanca.com/whatsapp-online-olanlar/)
+- [WhatsApp sohbet filtreleri](https://wolkanca.com/whatsapp-sohbet-filtreleri/)
 - [Tekrar tekrar izlenebilir diziler](https://wolkanca.com/tekrar-tekrar-izlenebilir-diziler/)
 - [GTA 6 fragmanını gerçek hayata uyarladı](https://wolkanca.com/gta-6-fragmanini-gercek-hayata-uyarladi/)
-- [Google Fotoğraflar’da yapay zekâ araçları ücretsiz](https://wolkanca.com/google-fotograflarda-yapay-zeka-araclari-ucretsiz/)
-- [X, iOS Passkeys başladı](https://wolkanca.com/x-ios-passkeys-basladi/)
-- [Joker: İkili Delilik](https://wolkanca.com/joker-ikili-delilik/)
 <!-- BLOG-POST-LIST:END -->
 
 
