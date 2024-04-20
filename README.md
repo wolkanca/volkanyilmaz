@@ -11,11 +11,11 @@ Cloudflare Pages. Test. Volkan. https://volkan.pages.dev/
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [AltStore PAL kullanımda](https://wolkanca.com/altstore-pal-kullanimda/)
 - [Google Maps şarj istasyonları](https://wolkanca.com/google-maps-sarj-istasyonlari/)
 - [WhatsApp online olanlar](https://wolkanca.com/whatsapp-online-olanlar/)
 - [WhatsApp sohbet filtreleri](https://wolkanca.com/whatsapp-sohbet-filtreleri/)
 - [Tekrar tekrar izlenebilir diziler](https://wolkanca.com/tekrar-tekrar-izlenebilir-diziler/)
-- [GTA 6 fragmanını gerçek hayata uyarladı](https://wolkanca.com/gta-6-fragmanini-gercek-hayata-uyarladi/)
 <!-- BLOG-POST-LIST:END -->
 
 
