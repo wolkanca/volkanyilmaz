@@ -11,11 +11,11 @@ Cloudflare Pages. Test. Volkan. https://volkan.pages.dev/
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [WordPress güvenlik raporu](https://wolkanca.com/wordpress-guvenlik-raporu/)
+- [En iyi hayatta kalma filmleri](https://wolkanca.com/en-iyi-hayatta-kalma-filmleri/)
+- [The Platform 2 ilk görseller](https://wolkanca.com/the-platform-2-ilk-gorseller/)
 - [AltStore PAL kullanımda](https://wolkanca.com/altstore-pal-kullanimda/)
 - [Google Maps şarj istasyonları](https://wolkanca.com/google-maps-sarj-istasyonlari/)
-- [WhatsApp online olanlar](https://wolkanca.com/whatsapp-online-olanlar/)
-- [WhatsApp sohbet filtreleri](https://wolkanca.com/whatsapp-sohbet-filtreleri/)
-- [Tekrar tekrar izlenebilir diziler](https://wolkanca.com/tekrar-tekrar-izlenebilir-diziler/)
 <!-- BLOG-POST-LIST:END -->
 
 
