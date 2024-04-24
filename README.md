@@ -11,11 +11,11 @@ Cloudflare Pages. Test. Volkan. https://volkan.pages.dev/
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Farklı çeşitlerde buldozerler ve kullanım alanları](https://wolkanca.com/farkli-cesitlerde-buldozerler-ve-kullanim-alanlari/)
 - [Yeni sekmede açılmasın](https://wolkanca.com/yeni-sekmede-acilmasin/)
 - [İlk başarılı yapay zekâ it dalaşı](https://wolkanca.com/ilk-basarili-yapay-zeka-it-dalasi/)
 - [WordPress güvenlik raporu](https://wolkanca.com/wordpress-guvenlik-raporu/)
 - [En iyi hayatta kalma filmleri](https://wolkanca.com/en-iyi-hayatta-kalma-filmleri/)
-- [The Platform 2 ilk görseller](https://wolkanca.com/the-platform-2-ilk-gorseller/)
 <!-- BLOG-POST-LIST:END -->
 
 
