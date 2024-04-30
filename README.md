@@ -11,11 +11,11 @@ Cloudflare Pages. Test. Volkan. https://volkan.pages.dev/
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [İlk Göktürk – Alper Çağlar](https://wolkanca.com/ilk-gokturk-alper-caglar/)
 - [CMXXIV – Single albüm çıktı](https://wolkanca.com/cmxxiv-single-album-cikti/)
 - [Cep telefonu tarifelerine zam](https://wolkanca.com/cep-telefonu-tarifelerine-zam/)
 - [Ölümlü Dünya 2 Netflix’te](https://wolkanca.com/olumlu-dunya-2-netflixte/)
 - [Yapay zekâ, siyasi görüşü de tahmin edebilecek](https://wolkanca.com/yapay-zeka-siyasi-gorusu-de-tahmin-edebilecek/)
-- [Farklı çeşitlerde buldozerler ve kullanım alanları](https://wolkanca.com/farkli-cesitlerde-buldozerler-ve-kullanim-alanlari/)
 <!-- BLOG-POST-LIST:END -->
 
 
