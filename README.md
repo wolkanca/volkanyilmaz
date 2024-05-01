@@ -11,11 +11,11 @@ Cloudflare Pages. Test. Volkan. https://volkan.pages.dev/
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [İllegal Hayatlar 2](https://wolkanca.com/illegal-hayatlar-2/)
 - [Rabbit’s R1 ve Humane’s Ai Pin](https://wolkanca.com/rabbits-r1-ve-humanes-ai-pin/)
 - [İlk Göktürk – Alper Çağlar](https://wolkanca.com/ilk-gokturk-alper-caglar/)
 - [CMXXIV – Single albüm çıktı](https://wolkanca.com/cmxxiv-single-album-cikti/)
 - [Cep telefonu tarifelerine zam](https://wolkanca.com/cep-telefonu-tarifelerine-zam/)
-- [Ölümlü Dünya 2 Netflix’te](https://wolkanca.com/olumlu-dunya-2-netflixte/)
 <!-- BLOG-POST-LIST:END -->
 
 
