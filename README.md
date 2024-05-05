@@ -11,11 +11,11 @@ Cloudflare Pages. Test. Volkan. https://volkan.pages.dev/
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [“Düşmanımın düşmanı dostumdur” sözü doğrulandı](https://wolkanca.com/dusmanimin-dusmani-dostumdur-sozu-dogrulandi/)
+- [Gemini uzantıları Türkiye’de](https://wolkanca.com/gemini-uzantilari-turkiyede/)
 - [Yeni He-Man 2026’da](https://wolkanca.com/yeni-he-man-2026da/)
 - [İllegal Hayatlar 2](https://wolkanca.com/illegal-hayatlar-2/)
 - [Rabbit’s R1 ve Humane’s Ai Pin](https://wolkanca.com/rabbits-r1-ve-humanes-ai-pin/)
-- [İlk Göktürk – Alper Çağlar](https://wolkanca.com/ilk-gokturk-alper-caglar/)
-- [CMXXIV – Single albüm çıktı](https://wolkanca.com/cmxxiv-single-album-cikti/)
 <!-- BLOG-POST-LIST:END -->
 
 
