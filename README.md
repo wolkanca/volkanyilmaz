@@ -11,11 +11,11 @@ Cloudflare Pages. Test. Volkan. https://volkan.pages.dev/
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [OLED ekranlı iPad Pro tanıtıldı](https://wolkanca.com/oled-ekranli-ipad-pro-tanitildi/)
+- [UK Savunma Bakanlığı hacklendi](https://wolkanca.com/uk-savunma-bakanligi-hacklendi/)
+- [Amazon Prime Mayıs ücretsiz oyunlar](https://wolkanca.com/amazon-prime-mayis-ucretsiz-oyunlar/)
 - [James Webb’den Atbaşı Nebulası’na bakış](https://wolkanca.com/james-webbden-atbasi-nebulasina-bakis/)
 - [“Düşmanımın düşmanı dostumdur” sözü doğrulandı](https://wolkanca.com/dusmanimin-dusmani-dostumdur-sozu-dogrulandi/)
-- [Gemini uzantıları Türkiye’de](https://wolkanca.com/gemini-uzantilari-turkiyede/)
-- [Yeni He-Man 2026’da](https://wolkanca.com/yeni-he-man-2026da/)
-- [İllegal Hayatlar 2](https://wolkanca.com/illegal-hayatlar-2/)
 <!-- BLOG-POST-LIST:END -->
 
 
