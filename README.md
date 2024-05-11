@@ -11,11 +11,11 @@ Cloudflare Pages. Test. Volkan. https://volkan.pages.dev/
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Yeni WhatsApp tasarımı](https://wolkanca.com/yeni-whatsapp-tasarimi/)
 - [İstediğini Grokla](https://wolkanca.com/istedigini-grokla/)
 - [OLED ekranlı iPad Pro tanıtıldı](https://wolkanca.com/oled-ekranli-ipad-pro-tanitildi/)
 - [UK Savunma Bakanlığı hacklendi](https://wolkanca.com/uk-savunma-bakanligi-hacklendi/)
 - [Amazon Prime Mayıs ücretsiz oyunlar](https://wolkanca.com/amazon-prime-mayis-ucretsiz-oyunlar/)
-- [James Webb’den Atbaşı Nebulası’na bakış](https://wolkanca.com/james-webbden-atbasi-nebulasina-bakis/)
 <!-- BLOG-POST-LIST:END -->
 
 
