@@ -11,11 +11,11 @@ Cloudflare Pages. Test. Volkan. https://volkan.pages.dev/
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Yüzüklerin Efendisi 2. sezon](https://wolkanca.com/yuzuklerin-efendisi-2-sezon/)
 - [GPT-4o tanıtıldı](https://wolkanca.com/gpt-4o-tanitildi/)
 - [God of War Ragnarök PC’de](https://wolkanca.com/god-of-war-ragnarok-pcde/)
 - [OpenAI arama motoru](https://wolkanca.com/openai-arama-motoru/)
 - [Yeni WhatsApp tasarımı](https://wolkanca.com/yeni-whatsapp-tasarimi/)
-- [İstediğini Grokla](https://wolkanca.com/istedigini-grokla/)
 <!-- BLOG-POST-LIST:END -->
 
 
