@@ -11,11 +11,11 @@ Cloudflare Pages. Test. Volkan. https://volkan.pages.dev/
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [2 yeni Googlebot](https://wolkanca.com/2-yeni-googlebot/)
 - [Assassin’s Creed Shadows](https://wolkanca.com/assassins-creed-shadows/)
 - [Google arama Web filtresi](https://wolkanca.com/google-arama-web-filtresi/)
 - [Yüzüklerin Efendisi 2. sezon](https://wolkanca.com/yuzuklerin-efendisi-2-sezon/)
 - [GPT-4o tanıtıldı](https://wolkanca.com/gpt-4o-tanitildi/)
-- [God of War Ragnarök PC’de](https://wolkanca.com/god-of-war-ragnarok-pcde/)
 <!-- BLOG-POST-LIST:END -->
 
 
