@@ -11,11 +11,11 @@ Cloudflare Pages. Test. Volkan. https://volkan.pages.dev/
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [X, Türkiye’ye temsilci atadı](https://wolkanca.com/x-turkiyeye-temsilci-atadi/)
 - [Videolar için gerçek zamanlı ses çevirisi](https://wolkanca.com/videolar-icin-gercek-zamanli-ses-cevirisi/)
 - [GORA 4 GORA Cem Yılmaz](https://wolkanca.com/gora-4-gora-cem-yilmaz/)
 - [Komik ve fazlasıyla tanıdık patron meme’leri](https://wolkanca.com/komik-ve-fazlasiyla-tanidik-patron-memeleri/)
 - [2 yeni Googlebot](https://wolkanca.com/2-yeni-googlebot/)
-- [Assassin’s Creed Shadows](https://wolkanca.com/assassins-creed-shadows/)
 <!-- BLOG-POST-LIST:END -->
 
 
