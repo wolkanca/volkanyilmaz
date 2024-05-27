@@ -11,11 +11,11 @@ Cloudflare Pages. Test. Volkan. https://volkan.pages.dev/
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Sosyal Medyanın modern pazarlama stratejilerine etkisi ve İK Uzmanlığı](https://wolkanca.com/sosyal-medyanin-modern-pazarlama-stratejilerine-etkisi-ve-ik-uzmanligi/)
 - [Netflix 2023 ikinci yarısı izlenme raporu](https://wolkanca.com/netflix-2023-ikinci-yarisi-izlenme-raporu/)
 - [Şampiyon Galatasaray](https://wolkanca.com/sampiyon-galatasaray/)
 - [Yeniden CNBC-e](https://wolkanca.com/yeniden-cnbc-e/)
 - [YouTube Music için de “mırıldanarak” arama](https://wolkanca.com/youtube-music-icin-de-mirildanarak-arama/)
-- [X, Türkiye’ye temsilci atadı](https://wolkanca.com/x-turkiyeye-temsilci-atadi/)
 <!-- BLOG-POST-LIST:END -->
 
 
