@@ -11,11 +11,11 @@ Cloudflare Pages. Test. Volkan. https://volkan.pages.dev/
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Venom: The Last Dance filminin fragmanı yayınlandı](https://wolkanca.com/venom-the-last-dance-filminin-fragmani-yayinlandi/)
 - [iOS 18 ile büyük değişiklikler](https://wolkanca.com/ios-18-ile-buyuk-degisiklikler/)
 - [Siri ile uygulamalar sesle yönetilebilecek](https://wolkanca.com/siri-ile-uygulamalar-sesle-yonetilebilecek/)
-- [Sosyal Medyanın modern pazarlama stratejilerine etkisi ve İK Uzmanlığı](https://wolkanca.com/sosyal-medyanin-modern-pazarlama-stratejilerine-etkisi-ve-ik-uzmanligi/)
-- [Netflix 2023 ikinci yarısı izlenme raporu](https://wolkanca.com/netflix-2023-ikinci-yarisi-izlenme-raporu/)
-- [Şampiyon Galatasaray](https://wolkanca.com/sampiyon-galatasaray/)
+- [WhatsApp mavi tik kapatma](https://wolkanca.com/whatsapp-mavi-tik-kapatma/)
+- [Bu uygulamalara dikkat!](https://wolkanca.com/bu-uygulamalara-dikkat/)
 <!-- BLOG-POST-LIST:END -->
 
 
