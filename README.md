@@ -11,11 +11,11 @@ Cloudflare Pages. Test. Volkan. https://volkan.pages.dev/
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [iPhone 16’nın bataryası metal](https://wolkanca.com/iphone-16nin-bataryasi-metal/)
+- [Windows 11 içinde Windows 10 Dosya Gezgini](https://wolkanca.com/windows-11-icinde-windows-10-dosya-gezgini/)
 - [Yapay Zeka Özetler’i hakkında](https://wolkanca.com/yapay-zeka-ozetleri-hakkinda/)
 - [Internetsiz Windows kurmak](https://wolkanca.com/internetsiz-windows-kurmak/)
 - [@photomatt entry’mi beğendi](https://wolkanca.com/photomatt-entrymi-begendi/)
-- [Google Domain’den Squarespace’e transferler başladı](https://wolkanca.com/google-domainden-squarespacee-transferler-basladi/)
-- [Venom: The Last Dance filminin fragmanı yayınlandı](https://wolkanca.com/venom-the-last-dance-filminin-fragmani-yayinlandi/)
 <!-- BLOG-POST-LIST:END -->
 
 
