@@ -11,11 +11,11 @@ Cloudflare Pages. Test. Volkan. https://volkan.pages.dev/
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [SEO ve GEO](https://wolkanca.com/seo-ve-geo/)
 - [WWDC24 özet](https://wolkanca.com/wwdc24-ozet/)
 - [iPhone 16’nın bataryası metal](https://wolkanca.com/iphone-16nin-bataryasi-metal/)
 - [Windows 11 içinde Windows 10 Dosya Gezgini](https://wolkanca.com/windows-11-icinde-windows-10-dosya-gezgini/)
 - [Yapay Zeka Özetler’i hakkında](https://wolkanca.com/yapay-zeka-ozetleri-hakkinda/)
-- [Internetsiz Windows kurmak](https://wolkanca.com/internetsiz-windows-kurmak/)
 <!-- BLOG-POST-LIST:END -->
 
 
