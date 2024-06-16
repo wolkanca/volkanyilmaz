@@ -11,11 +11,11 @@ Cloudflare Pages. Test. Volkan. https://volkan.pages.dev/
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Cloudflare Redirect Rules kullanımı](https://wolkanca.com/cloudflare-redirect-rules-kullanimi/)
 - [Instagram hikayeleri Whatsapp’da paylaşılabilecek](https://wolkanca.com/instagram-hikayeleri-whatsappda-paylasilabilecek/)
 - [LinkedIn yapay zekâ araçları](https://wolkanca.com/linkedin-yapay-zeka-araclari/)
 - [Apple’a dava, sildiğim mesajlar nasıl ortaya çıktı?](https://wolkanca.com/applea-dava-sildigim-mesajlar-nasil-ortaya-cikti/)
 - [SEO ve GEO](https://wolkanca.com/seo-ve-geo/)
-- [WWDC24 özet](https://wolkanca.com/wwdc24-ozet/)
 <!-- BLOG-POST-LIST:END -->
 
 
