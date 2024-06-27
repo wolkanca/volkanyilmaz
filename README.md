@@ -11,11 +11,11 @@ Cloudflare Pages. Test. Volkan. https://volkan.pages.dev/
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [YouTube Hype butonu](https://wolkanca.com/youtube-hype-butonu/)
+- [ChatGPT film senaryosu yazarsa?](https://wolkanca.com/chatgpt-film-senaryosu-yazarsa/)
 - [Otyken / 𐰇𐱅𐰜𐰤](https://wolkanca.com/otyken-%f0%90%b0%87%f0%90%b1%85%f0%90%b0%9c%f0%90%b0%a4/)
 - [A Knight of the Seven Kingdoms çekimleri başladı](https://wolkanca.com/a-knight-of-the-seven-kingdoms-cekimleri-basladi/)
 - [WordPress yorumlarda linkleri devre dışı bırakmak](https://wolkanca.com/wordpress-yorumlarda-linkleri-devre-disi-birakmak/)
-- [WordPress’te admin renk düzeni nasıl değiştirilir](https://wolkanca.com/wordpresste-admin-renk-duzeni-nasil-degistirilir/)
-- [Cloudflare Redirect Rules kullanımı](https://wolkanca.com/cloudflare-redirect-rules-kullanimi/)
 <!-- BLOG-POST-LIST:END -->
 
 
