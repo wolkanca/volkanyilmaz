@@ -11,11 +11,11 @@ Cloudflare Pages. Test. Volkan. https://volkan.pages.dev/
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Google Translate’e büyük güncelleme](https://wolkanca.com/google-translatee-buyuk-guncelleme/)
+- [Laptoplarda cihazlara USB Type-C zorunluluğu](https://wolkanca.com/laptoplarda-cihazlara-usb-type-c-zorunlulugu/)
+- [Apple Watch Series 10 hakkında bilinenler](https://wolkanca.com/apple-watch-series-10-hakkinda-bilinenler/)
 - [YouTube Hype butonu](https://wolkanca.com/youtube-hype-butonu/)
-- [ChatGPT film senaryosu yazarsa?](https://wolkanca.com/chatgpt-film-senaryosu-yazarsa/)
-- [Otyken / 𐰇𐱅𐰜𐰤](https://wolkanca.com/otyken-%f0%90%b0%87%f0%90%b1%85%f0%90%b0%9c%f0%90%b0%a4/)
-- [A Knight of the Seven Kingdoms çekimleri başladı](https://wolkanca.com/a-knight-of-the-seven-kingdoms-cekimleri-basladi/)
-- [WordPress yorumlarda linkleri devre dışı bırakmak](https://wolkanca.com/wordpress-yorumlarda-linkleri-devre-disi-birakmak/)
+- [Sıcak havalarda nasıl daha iyi uyunur?](https://wolkanca.com/sicak-havalarda-nasil-daha-iyi-uyunur/)
 <!-- BLOG-POST-LIST:END -->
 
 
