@@ -11,11 +11,11 @@ Cloudflare Pages. Test. Volkan. https://volkan.pages.dev/
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Jüpiter’de Büyük Kırmızı Leke](https://wolkanca.com/jupiterde-buyuk-kirmizi-leke/)
 - [Google Translate’e büyük güncelleme](https://wolkanca.com/google-translatee-buyuk-guncelleme/)
 - [Laptoplarda cihazlara USB Type-C zorunluluğu](https://wolkanca.com/laptoplarda-cihazlara-usb-type-c-zorunlulugu/)
 - [Apple Watch Series 10 hakkında bilinenler](https://wolkanca.com/apple-watch-series-10-hakkinda-bilinenler/)
 - [YouTube Hype butonu](https://wolkanca.com/youtube-hype-butonu/)
-- [Sıcak havalarda nasıl daha iyi uyunur?](https://wolkanca.com/sicak-havalarda-nasil-daha-iyi-uyunur/)
 <!-- BLOG-POST-LIST:END -->
 
 
