@@ -11,11 +11,11 @@ Cloudflare Pages. Test. Volkan. https://volkan.pages.dev/
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Gladiator 2 ilk görseller](https://wolkanca.com/gladiator-2-ilk-gorseller/)
 - [Cloudflare URL normalization](https://wolkanca.com/cloudflare-url-normalization/)
 - [Jüpiter’de Büyük Kırmızı Leke](https://wolkanca.com/jupiterde-buyuk-kirmizi-leke/)
 - [Google Translate’e büyük güncelleme](https://wolkanca.com/google-translatee-buyuk-guncelleme/)
 - [Laptoplarda USB Type-C zorunluluğu](https://wolkanca.com/laptoplarda-usb-type-c-zorunlulugu/)
-- [Apple Watch Series 10 hakkında bilinenler](https://wolkanca.com/apple-watch-series-10-hakkinda-bilinenler/)
 <!-- BLOG-POST-LIST:END -->
 
 
