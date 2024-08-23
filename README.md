@@ -11,11 +11,11 @@ Cloudflare Pages. Test. Volkan. https://volkan.pages.dev/
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Yüzüklerin Efendisi: Rohirrim Savaşı](https://wolkanca.com/yuzuklerin-efendisi-rohirrim-savasi/)
 - [$dikec](https://wolkanca.com/dikec/)
 - [Gerçek Youtube SEO](https://wolkanca.com/gercek-youtube-seo/)
 - [Volkan Yılmaz grubu](https://wolkanca.com/volkan-yilmaz-grubu/)
 - [#BeFairEUFA](https://wolkanca.com/befaireufa/)
-- [Gladiator 2 ilk görseller](https://wolkanca.com/gladiator-2-ilk-gorseller/)
 <!-- BLOG-POST-LIST:END -->
 
 
