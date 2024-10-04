@@ -11,11 +11,11 @@ Cloudflare Pages. Test. Volkan. https://volkan.pages.dev/
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Platform 2 çıktı](https://wolkanca.com/the-platform-2-cikti/)
 - [.TR alan adları başladı](https://wolkanca.com/tr-alan-adlari-basladi/)
 - [SimitciAI](https://wolkanca.com/simitciai/)
 - [Yüzüklerin Efendisi: Rohirrim Savaşı](https://wolkanca.com/yuzuklerin-efendisi-rohirrim-savasi/)
 - [$dikec](https://wolkanca.com/dikec/)
-- [Gerçek Youtube SEO](https://wolkanca.com/gercek-youtube-seo/)
 <!-- BLOG-POST-LIST:END -->
 
 
