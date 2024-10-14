@@ -11,11 +11,11 @@ Cloudflare Pages. Test. Volkan. https://volkan.pages.dev/
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Daron Acemoğlu Nobel Ödülü aldı](https://wolkanca.com/daron-acemoglu-nobel-odulu-aldi/)
+- [Erşan Kuneri 2. sezon &lpar;2024&rpar; çıktı](https://wolkanca.com/ersan-kuneri-2-sezon-2024-cikti/)
 - [The Platform 2 çıktı](https://wolkanca.com/the-platform-2-cikti/)
 - [.TR alan adları başladı](https://wolkanca.com/tr-alan-adlari-basladi/)
 - [SimitciAI](https://wolkanca.com/simitciai/)
-- [Yüzüklerin Efendisi: Rohirrim Savaşı](https://wolkanca.com/yuzuklerin-efendisi-rohirrim-savasi/)
-- [$dikec](https://wolkanca.com/dikec/)
 <!-- BLOG-POST-LIST:END -->
 
 
