@@ -11,11 +11,11 @@ Cloudflare Pages. Test. Volkan. https://volkan.pages.dev/
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Arabesk’in Babası Yapay Zekâda](https://wolkanca.com/arabeskin-babasi-yapay-zekada/)
-- [Squid Game 2 iddialı geliyor](https://wolkanca.com/squid-game-2-iddiali-geliyor/)
-- [2024’te Yapay Zeka Alanındaki Son Gelişmeler ve Yeni Araçlar](https://wolkanca.com/2024te-yapay-zeka-alanindaki-son-gelismeler-ve-yeni-araclar/)
-- [Muazzez İlmiye Çığ 110 yaşında hayatını kaybetti.](https://wolkanca.com/muazzez-ilmiye-cig-110-yasinda-hayatini-kaybetti/)
-- [Daron Acemoğlu Nobel Ödülü aldı](https://wolkanca.com/daron-acemoglu-nobel-odulu-aldi/)
+- [Çinli AI Uygulaması DeepSeek](https://wolkanca.com/cinli-ai-uygulamasi-deepseek/)
+- [İçerik Pazarlamasında SEO Uzmanlarının Rolü](https://wolkanca.com/icerik-pazarlamasinda-seo-uzmanlarinin-rolu/)
+- [Python Programlama Dili sınavı](https://wolkanca.com/python-programlama-dili-sinavi/)
+- [Python blok kavramı](https://wolkanca.com/python-blok-kavrami/)
+- [Python öğreniyorum](https://wolkanca.com/python-ogreniyorum/)
 <!-- BLOG-POST-LIST:END -->
 
 
