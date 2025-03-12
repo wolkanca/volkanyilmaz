@@ -11,11 +11,11 @@ Cloudflare Pages. Test. Volkan. https://volkan.pages.dev/
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Trabzon Haberlerinin Dinamik Adresi: Günebakış](https://wolkanca.com/trabzon-haberlerinin-dinamik-adresi-gunebakis/)
 - [Çinli AI Uygulaması DeepSeek](https://wolkanca.com/cinli-ai-uygulamasi-deepseek/)
 - [İçerik Pazarlamasında SEO Uzmanlarının Rolü](https://wolkanca.com/icerik-pazarlamasinda-seo-uzmanlarinin-rolu/)
 - [Python Programlama Dili sınavı](https://wolkanca.com/python-programlama-dili-sinavi/)
 - [Python blok kavramı](https://wolkanca.com/python-blok-kavrami/)
-- [Python öğreniyorum](https://wolkanca.com/python-ogreniyorum/)
 <!-- BLOG-POST-LIST:END -->
 
 
