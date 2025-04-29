@@ -11,11 +11,11 @@ Cloudflare Pages. Test. Volkan. https://volkan.pages.dev/
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Kaiwi Kanalı’nı  geçen en genç Türk](https://wolkanca.com/kaiwi-kanalini-gecen-en-genc-turk/)
 - [2025’in ilk çeyreğine ait Türkiye streaming pazarı verileri](https://wolkanca.com/2025in-ilk-ceyregine-ait-turkiye-streaming-pazari-verileri/)
 - [Türkiye’nin İlk Yerli Elektrikli Motosikleti RAKUN City ile Tanışın!](https://wolkanca.com/turkiyenin-ilk-yerli-elektrikli-motosikleti-rakun-city-ile-tanisin/)
 - [Türkiye SVOD Pazar Verileri &lpar;2024 Yıl Sonu&rpar;](https://wolkanca.com/turkiye-svod-pazar-verileri-2024-yil-sonu/)
 - [Trabzon Haberlerinin Dinamik Adresi: Günebakış](https://wolkanca.com/trabzon-haberlerinin-dinamik-adresi-gunebakis/)
-- [Çinli AI Uygulaması DeepSeek](https://wolkanca.com/cinli-ai-uygulamasi-deepseek/)
 <!-- BLOG-POST-LIST:END -->
 
 
