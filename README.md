@@ -11,11 +11,11 @@ Cloudflare Pages. Test. Volkan. https://volkan.pages.dev/
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Aydınlatma Dünyasında Çığır Açan Keşif: Bu Teknoloji Evleri Geleceğe Taşıyor!](https://wolkanca.com/aydinlatma-dunyasinda-cigir-acan-kesif-bu-teknoloji-evleri-gelecege-tasiyor/)
 - [Siberkondri: İnternetin Tetiklediği Hastalık Hastalığı](https://wolkanca.com/siberkondri-internetin-tetikledigi-hastalik-hastaligi/)
 - [Kahvenin Efsanevi Keşfi: Keçilerin Enerji Dopingi](https://wolkanca.com/kahvenin-efsanevi-kesfi-kecilerin-enerji-dopingi/)
 - [Liseli gençler Kodlama Festivali’nde buluştu](https://wolkanca.com/liseli-gencler-kodlama-festivalinde-bulustu/)
 - [Kaiwi Kanalı’nı  geçen en genç Türk](https://wolkanca.com/kaiwi-kanalini-gecen-en-genc-turk/)
-- [2025’in ilk çeyreğine ait Türkiye streaming pazarı verileri](https://wolkanca.com/2025in-ilk-ceyregine-ait-turkiye-streaming-pazari-verileri/)
 <!-- BLOG-POST-LIST:END -->
 
 
