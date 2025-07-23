@@ -12,10 +12,10 @@ Cloudflare Pages. Test. Volkan. https://volkan.pages.dev/
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Aydınlatma Dünyasında Çığır Açan Keşif: Bu Teknoloji Evleri Geleceğe Taşıyor!](https://wolkanca.com/aydinlatma-dunyasinda-cigir-acan-kesif-bu-teknoloji-evleri-gelecege-tasiyor/)
+- [Proses Kalibratörü Nedir ve Endüstriyel Otomasyondaki Önemi](https://wolkanca.com/proses-kalibratoru-nedir-ve-endustriyel-otomasyondaki-onemi/)
+- [LCR Metre Nedir? Elektronik Bileşen Analizinin Temel Taşı](https://wolkanca.com/lcr-metre-nedir-elektronik-bilesen-analizinin-temel-tasi/)
 - [Siberkondri: İnternetin Tetiklediği Hastalık Hastalığı](https://wolkanca.com/siberkondri-internetin-tetikledigi-hastalik-hastaligi/)
 - [Kahvenin Efsanevi Keşfi: Keçilerin Enerji Dopingi](https://wolkanca.com/kahvenin-efsanevi-kesfi-kecilerin-enerji-dopingi/)
-- [Liseli gençler Kodlama Festivali’nde buluştu](https://wolkanca.com/liseli-gencler-kodlama-festivalinde-bulustu/)
-- [Kaiwi Kanalı’nı  geçen en genç Türk](https://wolkanca.com/kaiwi-kanalini-gecen-en-genc-turk/)
 <!-- BLOG-POST-LIST:END -->
 
 
