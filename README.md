@@ -11,11 +11,11 @@ Cloudflare Pages. Test. Volkan. https://volkan.pages.dev/
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Test Cihazları: Güvenlik, Kalite ve Verimliliğin Temel Taşı](https://wolkanca.com/test-cihazlari-guvenlik-kalite-ve-verimliligin-temel-tasi/)
 - [Aydınlatma Dünyasında Çığır Açan Keşif: Bu Teknoloji Evleri Geleceğe Taşıyor!](https://wolkanca.com/aydinlatma-dunyasinda-cigir-acan-kesif-bu-teknoloji-evleri-gelecege-tasiyor/)
-- [Proses Kalibratörü Nedir ve Endüstriyel Otomasyondaki Önemi](https://wolkanca.com/proses-kalibratoru-nedir-ve-endustriyel-otomasyondaki-onemi/)
-- [LCR Metre Nedir? Elektronik Bileşen Analizinin Temel Taşı](https://wolkanca.com/lcr-metre-nedir-elektronik-bilesen-analizinin-temel-tasi/)
-- [Siberkondri: İnternetin Tetiklediği Hastalık Hastalığı](https://wolkanca.com/siberkondri-internetin-tetikledigi-hastalik-hastaligi/)
-- [Kahvenin Efsanevi Keşfi: Keçilerin Enerji Dopingi](https://wolkanca.com/kahvenin-efsanevi-kesfi-kecilerin-enerji-dopingi/)
+- [Güç Analizörü Nedir? Enerji Verimliliği ve Kalitesinin Sırrı](https://wolkanca.com/guc-analizoru-nedir-enerji-verimliligi-ve-kalitesinin-sirri/)
+- [Meger Nedir? İzolasyon Direnci Testi ile Elektrik Arızalarını Önleyin](https://wolkanca.com/meger-nedir-izolasyon-direnci-testi-ile-elektrik-arizalarini-onleyin/)
+- [Pensampermetre Nedir? Devreyi Kesmeden Akım Ölçmenin Kolay Yolu](https://wolkanca.com/pensampermetre-nedir-devreyi-kesmeden-akim-olcmenin-kolay-yolu/)
 <!-- BLOG-POST-LIST:END -->
 
 
