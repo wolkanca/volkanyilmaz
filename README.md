@@ -11,11 +11,11 @@ Cloudflare Pages. Test. Volkan. https://volkan.pages.dev/
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [GPT-5 çıktı, hepimiz işsiz miyiz artık?](https://wolkanca.com/gpt-5-cikti-hepimiz-issiz-miyiz-artik/)
 - [Test Cihazları: Güvenlik, Kalite ve Verimliliğin Temel Taşı](https://wolkanca.com/test-cihazlari-guvenlik-kalite-ve-verimliligin-temel-tasi/)
 - [Aydınlatma Dünyasında Çığır Açan Keşif: Bu Teknoloji Evleri Geleceğe Taşıyor!](https://wolkanca.com/aydinlatma-dunyasinda-cigir-acan-kesif-bu-teknoloji-evleri-gelecege-tasiyor/)
 - [Güç Analizörü Nedir? Enerji Verimliliği ve Kalitesinin Sırrı](https://wolkanca.com/guc-analizoru-nedir-enerji-verimliligi-ve-kalitesinin-sirri/)
 - [Meger Nedir? İzolasyon Direnci Testi ile Elektrik Arızalarını Önleyin](https://wolkanca.com/meger-nedir-izolasyon-direnci-testi-ile-elektrik-arizalarini-onleyin/)
-- [Pensampermetre Nedir? Devreyi Kesmeden Akım Ölçmenin Kolay Yolu](https://wolkanca.com/pensampermetre-nedir-devreyi-kesmeden-akim-olcmenin-kolay-yolu/)
 <!-- BLOG-POST-LIST:END -->
 
 
