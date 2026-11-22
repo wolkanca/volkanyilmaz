@@ -11,6 +11,8 @@ Cloudflare Pages. Test. Volkan. https://volkan.pages.dev/
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Gerçek mi, Yapay Zekâ mı? Quiz [Oyun]](https://wolkanca.com/gercek-mi-yapay-zeka-mi-quiz-oyun)
+- [Yakınlaştırılmış Nesneyi Bul: Bu Görselde Ne Var? [Oyun]](https://wolkanca.com/yakinlastirilmis-nesneyi-bul-bu-gorselde-ne-var-oyun)
 - [Robert Pattinson yeni James Bond oldu](https://wolkanca.com/robert-pattinson-yeni-james-bond-oldu)
 - [YouTube’dan 24 saatlik GTA 6 canlı yayını](https://wolkanca.com/youtubedan-24-saatlik-gta-6-canli-yayini)
 - [David Rumsey: Eski haritalarla internette kaybolmanın güzel yolu](https://wolkanca.com/david-rumsey-eski-haritalarla-internette-kaybolmanin-guzel-yolu)
@@ -24,8 +26,6 @@ Cloudflare Pages. Test. Volkan. https://volkan.pages.dev/
 - [SEO’nun Yanına GEO Geliyor: Markaların Yeni Hedefi Yapay Zekâ Yanıtlarında Yer Almak](https://wolkanca.com/seonun-yanina-geo-geliyor-markalarin-yeni-hedefi-yapay-zeka-yanitlarinda-yer-almak)
 - [Google 28 yaşında: Bir garajdan yapay zekâ çağına](https://wolkanca.com/google-28-yasinda-bir-garajdan-yapay-zeka-cagina)
 - [Ekim 2026’da başlayacak en dikkat çekici 10 dizi](https://wolkanca.com/ekim-2026da-baslayacak-en-dikkat-cekici-10-dizi)
-- [Black Mirror’ın yaratıcısı Charlie Brooker’dan yeni Netflix dizisi: Blackmere](https://wolkanca.com/black-mirrorin-yaraticisi-charlie-brookerdan-yeni-netflix-dizisi-blackmere)
-- [Hioki Test ve Ölçüm Cihazları Endüstriyel Uygulamalarda Neden Önemli?](https://wolkanca.com/hioki-test-ve-olcum-cihazlari-endustriyel-uygulamalarda-neden-onemli)
 <!-- BLOG-POST-LIST:END -->
 
 
